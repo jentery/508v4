@@ -4,6 +4,32 @@
 
 Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fall 2018)
 
+ENGLISH 508: DIGITAL LITERARY STUDIES (SPECIAL TOPIC)
+
+This year: “Paper Computers” 
+
+Get off the internet! -- Le Tigre (2001)
+
+Games are expanding so much in terms of subject matter, in terms of what they're about and who they are able to be about, but let's also expand how they play, what they value, what they expect from the player, what they give back. -- Anna Anthropy, "Passing Notes" (2015)
+
+Tabletop games are “paper computers,” says Matthew Kirschenbaum. They are centuries old. They are designed. They enact systems of rules and procedures. And, most important, you don’t have to charge or program them.
+ 
+This seminar follows that low-tech disposition. We’ll survey the history of paper computers and their entanglements with literature. Then you’ll select a cultural movement or “-ism” (between 1870 and 1970) and use it to prototype your own tabletop game. We’ll discuss the material dynamics that bridge aesthetics with mechanics, including how games routinely rehearse legacies of colonialism and capital accumulation. What alternatives exist, and how are they made? We’ll play some games as we go, and read a smidgen of media theory and fiction, too. From week to week, we’ll ground it all in design practices, such as bookmaking, 3D modelling, fabricating, and playtesting. Various guest speakers will join us. By the end, you should develop a palpable sense of how this becomes that with a computer—but without running culture in the background.
+
+Coding: none. Educational games: none. Meeples: likely. 
+
+Aims of the seminar: For you to 1) examine the entanglements of game studies with literary studies through A-D-M and M-D-A frameworks that foreground the material dynamics ("D") between aesthetics ("A") and mechanics ("M”); 2) understand digital studies as a centuries-old design practice and approach it through "low-tech" techniques anchored in gaming, prototyping, and playtesting; 3) learn how speculative design and game prototyping apply (and are arguably foundational) to digital project design and development, with particular attention to paradigms of labour, conjecture, and negotiation; 4) prototype an offline tabletop game informed by the politics and aesthetics of an "-ism" (between 1870 and 1970) and document the prototyping process; 5) share and test your tabletop game with people in and beyond this seminar; and 6) communicate (via a presentation and in writing) the relevance of your game prototype to literary and digital studies.
+ 
+Tentative assignments: I’ll ask you to keep a “design log” that documents your research and experiments (20% x 2), prototype your own tabletop game by the seminar’s end (25%), give a brief talk (with transcript and bibliography) about your prototype and its relation to literary and digital studies (20%), and participate regularly in seminar workshops and discussions (15%).
+
+Workshops: In collaboration with the Digital Scholarship Commons (in the Library), we will conduct workshops in interaction and graphic design, 3D modelling, 3D printing, laser cutting, paper prototyping, bookmaking, and playtesting. You will practice a specific technique each week and document the results. We will also be joined by several guest speakers, including game designers and critics.  
+ 
+Materials: I will encourage you to (in groups or individually) compile your own “bit boxes” for prototyping. Depending on the sort of game you’re prototyping, materials might include graph paper, cardboard, cutting mats, rotary cutters, rulers, printers, markers, pens, pencils, plasticine, scissors, rulers, cameras, tape, glue, dice, and tokens. I also recommend Tabletop Simulator (Berserk Games) and Challenges for Game Designers, by Romero and Schreiber. You may need a few dollars to cover printing costs. 
+
+Reader: I will produce a passcode-protected course reader (in PDF) for you. We will read one or two articles each week, including publications by Anna Anthropy, Elizabeth Bruss, Rachel Sagner Buurma, Mary Ann Caws, Samuel R. Delany, Mary Flanagan, N. Katherine Hayles, Matthew Kirschenbaum, Kari Kraus, Elizabeth LaPensée, Jerome McGann, Bethany Nowviskie, Brenda Romero, and Lisa Samuels. The selections will focus on the overlaps of game studies with literary studies as well as on prototyping as a form of praxis.   
+
+Games: Where possible, I will provide you with access to tabletop games for play and study. I will also point you to local spots where you can play tabletop games for free or a small fee. Each week I will recommend games without requiring you to play any game in particular.  
+
 ## CONTENT 
 
 * [Epigraphs](#epigraphs) 
