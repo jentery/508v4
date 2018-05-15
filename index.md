@@ -6,7 +6,7 @@ Jentery Sayers | English | University of Victoria | Digital Studies Seminar (Fal
 
 ENGLISH 508: DIGITAL LITERARY STUDIES (SPECIAL TOPIC)
 
-This year: “Paper Computers” 
+This year: “Paper Computers” (Tabletop Edition) 
 
 Get off the internet! -- Le Tigre (2001)
 
