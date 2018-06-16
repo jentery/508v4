@@ -626,4 +626,8 @@ From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design*
 * Confirmation Bias: strongest with people who have emotional investments; change a variable or implement a contrary view/action 
 * A well-designed system should offer varying levels of user control according to levels of expertise 
 * Volative environments favor experimentation; stable enviroments favor refinements 
-* 
+* Depth of Processing: memorization results from maintenance and elaborative rehearsal; maintenance rehearsal involves repetition whereas elaborative rehearsal involves engaging in different types of analysis; recall is most likely when it involves distinctiveness, relevance, and a degree of elaborative rehearsal 
+* Desire Line: traces of use or wear that indicate preferred methods of interaction; they suggest areas for improvement (given strong and unbiased user preferences) 
+* Entry Point: good entry points feature minimal barriers, points of prospect, and progressive lures (entry points should survey available options + provide visible navigation optoins as well as orientation cues) 
+* High uncertainty requires a high factor of safety 
+* Feature/Scope Creep: adding features adds complexity, which is expensive and time-consuming (create a milestone to "freeze" a project)  
