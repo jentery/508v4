@@ -613,3 +613,17 @@ A list of keywords related to game prototyping. We should return to this list th
 * Wargames (game genre)
 * Worker Placement (game genre)
 * World Design (see Week 6)
+
+## DESIGN PRINCIPLES 
+
+From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design* 
+
+* 80/20 Rule (Vilfredo Pareto): focus resources on the critical 20 percent; 80 percent of a product's usage involves 20 percent of its features
+* Accessibility: things should be designed to be usable 
+* Affordance: see Gibson (relational, or between things, contrary to the inherency/formalist model) 
+* Back-of-the-dresser: apply excellent design and development to all aspects of design (treat invisible areas as if they were visible) 
+* Common Fate: things that move in the same direction are assumed to be related (Gestalt principle); moving elements are figures and stationary elements are ground 
+* Confirmation Bias: strongest with people who have emotional investments; change a variable or implement a contrary view/action 
+* A well-designed system should offer varying levels of user control according to levels of expertise 
+* Volative environments favor experimentation; stable enviroments favor refinements 
+* 
