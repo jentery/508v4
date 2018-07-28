@@ -644,4 +644,15 @@ From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design*
 * Nudges: modify behaviour without restricting options (smart defaults, clear feedback, aligned incentives, structured choices, visible goals) 
 * Ockham's Razor: given two functionally equal designs, choose the simpler one 
 * Performance Load: cognitive (mental) and kinematic (physical); reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task
-* 
+* Performance vs. Preference: increased performance does not mean people will change their preferences (or that desirability will increase)  
+* Pictures + Words: memory for pictures and words together is superior to either alone 
+* Progressive Disclosure: separate information into layers and present only what's necessary or relevant; descreases/reduces performance load 
+* Serial Position Effect: things presented at the beginning and end of a sequence are more memorable 
+* Social Trap: pursuing short-term gains that result in long-term losses for a group
+* Stickiness (SUCCES): Simple, Unexpected, Concrete, Credible, Emotional, Stories (usually an explanation for why things go viral) 
+* Structural Forms: masses (materials that are piled or stacked to create forms), frames (struts joined to form a skeleton), and shells (wrap around a volume) 
+* Threat Detection: threatening things are detected quickly 
+* Uncertainty Principle: measuring things changes them, making the results invalid 
+* Uniform Connectedness: things connected with lines or boxes are perceived to more related than things not connected 
+* von Restorff Effect: uncommon things are easier to recall than common things 
+* Zeigarnik Effect: interrupted or incomplete tasks are better remembered than complete tasks 
