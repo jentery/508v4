@@ -672,4 +672,18 @@ From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design*
 * Fly-on-the-Wall: unobstrusive observation of people or behaviours without direct participation or interference 
 * Generative Research: engaging audiences/users in creative activities to provide information for concept development (using kits or collage, e.g.) 
 * Heuristic Evaluation: agreed-upon set of usability best practices used to evaluate an interface 
-* Kano Analysis: reviewers assign features to these categories - 
+* Kano Analysis: reviewers assign features to categories, required (baseline, quality element), desired (valuable, one-dimensional quality element), exciter/delighter (surprising, attractive quality element), neutral (indifferent quality element), and anti-feature (reverse quality element) 
+* Literature Review: written collection and synthesis of research on a given topic (distilled information beyond a bib, usually ordered via categories or chronologies) 
+* Love Letters + Breakup Letters: personify a design or product and then write a letter loving it or breaking up with it
+* Parallel Prototyping: simultaneously exploring multiple design ideas before selecting one approach 
+* Participatory Action Research: cyclical, collaborative process that intends to change members of the inquiry 
+* Participatory Design: codesign between designers and users + stakeholders (often through kits, diaries, collage, flexible modeling, and role-playing) 
+* Personas: representative profiles based on archetypal descriptions of users from research 
+* Research through Design: using the design process as a reflective research activity to enhance design practices and research 
+* Scenario Description Swimlanes: four in total, presentated in parallel, storyboard lane (captures events in a user story using comics, photographs, images), user experience lane (details user experience with a flowchart), business process lane (articulate the business logic of the experience), and tools and systems lane (back-end technologies that support actions) 
+* Scenarios: narrative exploring past or future uses of a design/product from a user's point of view
+* Simulation Exercises: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction 
+* Storyboard: visual narrative that generates empathy and communicates the context for proposed design (usually only three to six panels) 
+* Think-Aloud Protocol: participants verbalize what they are doing and thinking as they complete a task
+* Usability Testing: observes instances where user understands the task but can't complete it (within a reasonable amount of time), understands the goal but has to try different approaches, gives up or resigns, completes a task but not the specified one, expresses surprise or delight, expresses frustration or confusion, blames themself, asserts something is wrong or broken, and makes a suggestion for improvement 
+* Wizard of Oz: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scences; experience is realistic but the prototype isn't built/functioning 
