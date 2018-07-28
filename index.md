@@ -659,6 +659,8 @@ From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design*
 
 ## DESIGN METHODS 
 
+From Universal Methods of Design, by Martin and Hanington 
+
 * Artifact Analysis: material (composition, components, durability, wear, disposibility), aesthetic (form, color, texture, references, emotional significance), interactive (operational uses, affordances, function, complexity), contextual (where it's storied and carried, whether part of a larger whole, time and space, ownership, public, private), and potential for misuse and repurposing 
 * Bodystorming: ideas are integrated and tested in play, using simple props and improv (role-playing) 
 * Card Sorting: participants sorts concepts, terms, or features into meaningful categories and relationships using printed cards 
