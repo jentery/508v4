@@ -630,4 +630,18 @@ From Lidwell, Holden, and Butler's *Pocket Universal Principles of Design*
 * Desire Line: traces of use or wear that indicate preferred methods of interaction; they suggest areas for improvement (given strong and unbiased user preferences) 
 * Entry Point: good entry points feature minimal barriers, points of prospect, and progressive lures (entry points should survey available options + provide visible navigation optoins as well as orientation cues) 
 * High uncertainty requires a high factor of safety 
-* Feature/Scope Creep: adding features adds complexity, which is expensive and time-consuming (create a milestone to "freeze" a project)  
+* Feature/Scope Creep: adding features adds complexity, which is expensive and time-consuming (create a milestone to "freeze" a project) 
+* Fitts' Law: keep important objects/controls close and large (time required to touch an object is a function of the object's size and distance) 
+* Five Hat Racks: info can be organized five ways (category or similarity, time, location, alphabet, continuum or magnitude) 
+* Flexibility trade-off: as flexibility of a design increases, usability and performance decrease 
+* Flow: occurs when people are challenged at or near maximum skill level; in flow, people lose track of time and also joy increases 
+* Hick's Law: the time it takes to make a decision increases with the number of options 
+* Horror Vacui: filling blank spaces with things; minimalism signals hi-priced products/quality 
+* Iconic Representation: use pictorial images to improve recognition and recall (also, more understandable across cultures and should reduce performance load); include resemblance, exemplar, and symbolic icons 
+* Inverted Pyramid: start with the lead/findings/hook (base), then the body, and then the conclusion (tip) 
+* KISS: Keep It Simple Stupid
+* Legibility: use clear typefaces (with or without serifs), dark text on light background, avoid patterned backgrounds, line lengths of 10-12 words or 35-55 characters, avoid monospaced fonts 
+* Nudges: modify behaviour without restricting options (smart defaults, clear feedback, aligned incentives, structured choices, visible goals) 
+* Ockham's Razor: given two functionally equal designs, choose the simpler one 
+* Performance Load: cognitive (mental) and kinematic (physical); reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task
+* 
