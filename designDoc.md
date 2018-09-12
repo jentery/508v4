@@ -44,6 +44,6 @@ I was also really interested in Lara Wilson's description of artists' books, spe
 
 After hearing from Chen and Wilson, I decided to prototype a new card for *Codex Conquest*, building on what we have in Special Collections. I drew it by hand. Here's a picture: 
 
-![New Card for Codex Conquest](codexConquest18September.jpg)
+![New Card for Codex Conquest](codexConquest18September.png)
 
 Next week I hope to laoreet sit amet cursus sit amet dictum sit amet. I'm wondering lorem dolor sed viverra ipsum nunc aliquet.
