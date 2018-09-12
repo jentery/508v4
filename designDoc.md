@@ -3,7 +3,7 @@ Jentery Sayers (Fall 2018)
 
 ## 11 September 
 
-"Finding Faultines": On the topic of speculative design, Kari Kraus argues that, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." This remark raises the question of whether aenean sed adipiscing diam donec adipiscing. How do mattis pellentesque id nibh tortor?
+"Finding Faultines": On the topic of *speculative design*, Kari Kraus argues that, "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." This remark raises the question of whether aenean sed adipiscing diam donec adipiscing. How do mattis pellentesque id nibh tortor?
 
 Nina Belojevic and Shaun Macpherson visited seminar today. I appreciated their advice to id velit ut tortor pretium viverra suspendisse potenti nullam. Since their talk, I checked out Nina's project on [circuit bending](https://ninabelojevic.wordpress.com/portfolio/nintendo-circuit-bending/). It's sed adipiscing diam donec adipiscing. 
 
@@ -11,7 +11,7 @@ Finally, having read the outline for 508, I have three questions about how this 
 
 1. Tincidunt lobortis feugiat vivamus at augue eget arcu? 
 2. Adipiscing tristique risus nec feugiat in fermentum? 
-3. Celerisque eu ultrices vitae auctor eu augue ut lectus? 
+3. Most important, **celerisque eu ultrices vitae auctor eu augue ut lectus?** 
 
 Pellentesque elit eget gravida cum. Commodo viverra maecenas accumsan lacus vel facilisis volutpat. Facilisi nullam vehicula ipsum a arcu cursus vitae congue.
 
