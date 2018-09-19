@@ -23,46 +23,46 @@ Some rough notes for quick reference. Not for citation or quotation.
 
 ## Game Speak
 
-* **algorithm**: a procedure or formula for conducting a specific action 
+* **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
 * **components**: tactile parts or bits of a game
 * **dynamics**: embodied patterns of play
 * **family**: the genre of the game 
 * **game space**: the area of the game
-* **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions to goals and win conditions 
-* **game view**: the info or variables you can see (compare with game state) 
+* **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
+* **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
-* **rules**: guidelines or protocols for action (compare with mechanic)
-* **theme**: the subject matter of the game 
+* **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
+* **theme**: the subject matter (story, setting, characters, and even design) of the game 
 
 ## Design Speak
 
-* *action writing*: coming soon
-* *A-D-M*: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
-* *aleatory procedures*: the use of chance or randomness in design; often intended to reduce a sense of control; also a critique of romantic genius 
-* *alternative uses task*: ask people to list as many possible uses for a common household item; assessed on originality, fluency, flexibility, and elaboration (see Guilford)
-* *artifact analysis*: study a given text's material (composition, components, durability, wear, disposibility), aesthetics (form, color, texture, references, emotional significance), affordances (operational uses, functions, complexity), context (where it's storied and carried, whether part of a larger whole, time and space, ownership, public, private), and potential for misuse and repurposing
-* *artist's book*: coming soon 
-* *blanks*: they are printed and used, not authored or read; they connect the intimacy of material objects and collections with the abstractions of bureaucracy, forms, and social structures (see Lisa Gitelman)
-* *context of use*: a way to consider actual situations and practices of use (as opposed to ideal forms or intended uses) (see Andrea Botero)
-* *design as inquiry*: treating design as a mode of research, as opposed to the quality of an object or a property inherent to an object (see Daniela Rosner)
-* *design fiction*: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
-* *diegetic action*: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
-* *interface*: coming soon 
-* *near futures*: thinking and designing in terms of possible tomorrows (as opposed to distant futures) (see Julian Bleecker)
-* *M-D-A*: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A)
-* *machines*: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement
-* *manifesto*: public declarations (and often loud ones at that) (Caws 2001: xix), announcements of motives for forthcoming action (xix), acts of deliberate manipulation (both aesthetic and political) (xix), rooted in the hand (manus) or handmade (xix), directives (usually against something) articulated by a specific "we" (xxi), serious, and frequently without irony (xxi), situated in time, typically with an investment in being first (xxiii), instructive or pedagogical (xxiii), arranged or, indeed, designed (xxiii), efforts to label or categorize (even if loosely) (xxiv), duck, not decoration (xxv), written in the present tense (now!) (xxvi), advertisements (they sell themselves) (xxv), and subject to redefinition and recontextualization over time (xxviii-xxix)
-* *moveable book*: coming soon 
-* *nondiegetic action*: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway) 
-* *participatory research and design*: cyclical, collaborative processes that intends to change members of the inquiry; involves numerous groups (not just designers) in the design process
-* *prediction*: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
-* *protocol*: coming soon 
-* *restoration*: "a means to re-establish [a cultural object] in a completed state, which may in fact never have actually existed at any given time;" involves speculation in the process (see Eugène Emmanuel Viollet-le-Duc)
-* *scenario prototyping*: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view
-* *simulation exercises*: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction
-* *speculative design*: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see DiSalvo and Lukens; Dunne and Raby; and Candy)
-* *Wizard of Oz*: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning
-* *zine*: coming soon 
+* **action writing**: coming soon
+* **A-D-M**: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
+* **aleatory procedures**: the use of chance or randomness in design; often intended to reduce a sense of control; also a critique of romantic genius 
+* **alternative uses task**: ask people to list as many possible uses for a common household item; assessed on originality, fluency, flexibility, and elaboration (see Guilford)
+* **artifact analysis**: study a given text's material (composition, components, durability, wear, disposibility), aesthetics (form, color, texture, references, emotional significance), affordances (operational uses, functions, complexity), context (where it's storied and carried, whether part of a larger whole, time and space, ownership, public, private), and potential for misuse and repurposing
+* **artist's book**: coming soon 
+* **blanks**: they are printed and used, not authored or read; they connect the intimacy of material objects and collections with the abstractions of bureaucracy, forms, and social structures (see Lisa Gitelman)
+* **context of use**: a way to consider actual situations and practices of use (as opposed to ideal forms or intended uses) (see Andrea Botero)
+* **design as inquiry**: treating design as a mode of research, as opposed to the quality of an object or a property inherent to an object (see Daniela Rosner)
+* **design fiction**: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
+* **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
+* **interface**: coming soon 
+* **near futures**: thinking and designing in terms of possible tomorrows (as opposed to distant futures) (see Julian Bleecker)
+* **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A)
+* **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement
+* **manifesto**: public declarations (and often loud ones at that) (Caws 2001: xix), announcements of motives for forthcoming action (xix), acts of deliberate manipulation (both aesthetic and political) (xix), rooted in the hand (manus) or handmade (xix), directives (usually against something) articulated by a specific "we" (xxi), serious, and frequently without irony (xxi), situated in time, typically with an investment in being first (xxiii), instructive or pedagogical (xxiii), arranged or, indeed, designed (xxiii), efforts to label or categorize (even if loosely) (xxiv), duck, not decoration (xxv), written in the present tense (now!) (xxvi), advertisements (they sell themselves) (xxv), and subject to redefinition and recontextualization over time (xxviii-xxix)
+* **moveable book**: coming soon 
+* **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway) 
+* **participatory research and design**: cyclical, collaborative processes that intends to change members of the inquiry; involves numerous groups (not just designers) in the design process
+* **prediction**: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
+* **protocol**: coming soon 
+* **restoration**: "a means to re-establish [a cultural object] in a completed state, which may in fact never have actually existed at any given time;" involves speculation in the process (see Eugène Emmanuel Viollet-le-Duc)
+* **scenario prototyping**: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view
+* **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction
+* **speculative design**: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see DiSalvo and Lukens; Dunne and Raby; and Candy)
+* **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning
+* **zine**: coming soon 
 
 ## Theory Speak
 
