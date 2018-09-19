@@ -21,16 +21,16 @@ Some rough notes for quick reference. Not for citation or quotation.
 
 ## Game Speak
 
-* *algorithm*: a procedure or formula for conducting a specific action 
-* *components*: tactile parts or bits of a game
-* *dynamics*: embodied patterns of play
-* *family*: the genre of the game 
-* *game space*: the area of the game
-* *game state*: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions to goals and win conditions 
-* *game view*: the info or variables you can see (compare with game state) 
-* *mechanic (or mechanism)*: an action or function that can be performed in a game (compare with rule)
-* *rules*: guidelines or protocols for action (compare with mechanic)
-* *theme*: the subject matter of the game 
+* **algorithm**: a procedure or formula for conducting a specific action 
+* **components**: tactile parts or bits of a game
+* **dynamics**: embodied patterns of play
+* **family**: the genre of the game 
+* **game space**: the area of the game
+* **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions to goals and win conditions 
+* **game view**: the info or variables you can see (compare with game state) 
+* **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
+* **rules**: guidelines or protocols for action (compare with mechanic)
+* **theme**: the subject matter of the game 
 
 ## Design Speak
 
