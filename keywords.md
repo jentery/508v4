@@ -98,7 +98,7 @@ Types of prototypes:
 * *glitch* (negotiations with the text): to better understand hiccups or surprises in a text by isolating them, applying them procedurally or randomly to other texts (or aspects of itself), and determining why the changes are interesting (if at all)
 * *wish* (ideology of the text): to better understand the worldviews, belief systems, or desires of a text by increasing/decreasing their frequency, reversing them, or otherwise manipulating them and then determining why the changes are interesting (if at all)
 
-Speculating about history through prototyping (this adapts work by Anthony Dunne and Fiona Raby as well as Stuart Candy to think about the past and not just futures): 
+Speculating about history through prototyping (this adapts work by Anthony Dunne and Fiona Raby as well as Stuart Candy to think about the past and not just futures in speculative design): 
 * *Probable*: history that likely happened (something like the "attested state" of literary or cultural history upon which most scholarship is built)
 * *Plausible*: history that could have happened (something like an "alternative state" of literary or cultural history that most scholars would entertain as likely or persuasive)
 * *Possible*: history that potentially happened, or for which there is potential (something like a "relatable" or "suggested state" of literary or cultural history that most scholars could imagine)
@@ -129,7 +129,7 @@ Prototyping asks how texts address us like (or as) images, or how:
 * Texts are dogma, intended for followers. Here, lists, point form, and order are foregrounded (e.g., litany). As image, the text wants to be copied, distributed, consulted, and observed. It directs or guides.
 * Texts are policy or law, intended for nations, citizens, or employees. Here, an absence of aesthetics, a lack of variation, or an assertion of consistency is crucial (e.g., protocol). The text does not want to be an image. It wants to be code or procedure, with a standard. It is executable.
 
-## Games 
+## List of Games 
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
 
