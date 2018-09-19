@@ -15,9 +15,11 @@ Some rough notes for quick reference. Not for citation or quotation.
 * May be a synonym for tabletop gaming (see Kirschenbaum)
 * Stresses paper as a medium for storage, processing, and use 
 * Highlights computing as embodied labour (neither abstract nor fully automated)
-* Underscores how paper prompts input (see Gitelman on blanks)
+* Further notes how this labour is often ignored in histories of science, technology, media, art, and literature
+* Underscores how paper (like screens) prompts input (see Gitelman on blanks)
 * Foregrounds design (graphic, interaction, experience) and how paper may structure or facilitate certain forms of perception (see Miles on the tabular view)
 * Likely involves quantification or procedural thinking 
+* Raises questions about how forms such as artists' books, manifestos, and zines (as experiments with paper, if you will) are entwined with gaming and tabletop gaming in particular 
 
 ## Game Speak
 
