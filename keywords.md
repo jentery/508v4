@@ -63,7 +63,7 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 * **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction (see Martin and Hanington)
 * **speculative design**: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see Carl DiSalvo and Jonathan Lukens; Anthony Dunne and Fiona Raby; and Stuart Candy)
 * **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning (see Martin and Hanington)
-* **zine**: coming soon (see Janice Radway)
+* **zine**: variant of fanzine; made by fans or aficionados; often made by collectives, who may be anonymous; origin story linked to sci-fi scenes of the 1930s; "handmade, noncommercial, irregularly issued, small-run, paper publications circulated by individuals participating in alternative, special-interest communities" (140); grew in popularity with punk during the 1970s and 80s; symbols of an "alternative press"; often asserts voice of youth (as subjects, not objects) (145); call "forth a range of intersubjective activities, including reading, certainly, but also exchanging, mailing, bartering, networking, letter writing, and even face-to-face meeting" (148) (see Janice Radway)
 
 ## Theory Speak
 
