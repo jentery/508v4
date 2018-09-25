@@ -36,7 +36,7 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 
 ## Design Speak
 
-* **action writing**: coming soon (see Steven Marcus)
+* **action writing**: either prompts specific behaviours/responses (against standardized or normalized reading practices) or contains charged design elements (see Steven Marcus)
 * **A-D-M**: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
 * **aleatory procedures**: the use of chance or randomness in design; often intended to reduce a sense of control; also a critique of romantic genius 
 * **alternative uses task**: ask people to list as many possible uses for a common household item; assessed on originality, fluency, flexibility, and elaboration (see Guilford via Kari Kraus)
@@ -49,7 +49,7 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
 * **interface**: coming soon (see Lori Emerson)
 * **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A) (see Hunicke, LeBlanc, and Zubek)
-* **machine-woven book**: coming soon 
+* **machine-woven book**: a book consisting of thread woven by a Jacquard machine using punched cards; see https://www.uvic.ca/library/locations/home/spcoll/collections/medieval/ms-fr-2.php
 * **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement; a popular term during the 19th c. 
 * **manifesto**: public declarations (and often loud ones at that) (Mary Ann Caws 2001: xix), announcements of motives for forthcoming action (xix), acts of deliberate manipulation (both aesthetic and political) (xix), rooted in the hand (manus) or handmade (xix), directives (usually against something) articulated by a specific "we" (xxi), serious, and frequently without irony (xxi), situated in time, typically with an investment in being first (xxiii), instructive or pedagogical (xxiii), arranged or, indeed, designed (xxiii), efforts to label or categorize (even if loosely) (xxiv), duck, not decoration (xxv), written in the present tense (now!) (xxvi), advertisements (they sell themselves) (xxv), and subject to redefinition and recontextualization over time (xxviii-xxix)
 * **moveable book**: another term for a pop-up book or a book with moving (paper) parts  
@@ -57,7 +57,7 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 * **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway) 
 * **participatory research and design**: cyclical, collaborative processes that intend to change members of the inquiry; involves numerous groups (not just designers) in the design process (see Martin and Hanington)
 * **prediction**: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
-* **protocol**: coming soon 
+* **protocol**: a principle and procedure of organization; in technology circles, it may be universally adopted (e.g., http) to standardize information flow and communication (see Galloway)  
 * **restoration**: "a means to re-establish [a cultural object] in a completed state, which may in fact never have actually existed at any given time;" involves speculation in the process (see Eugène Emmanuel Viollet-le-Duc via Kari Kraus)
 * **scenario prototyping**: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view (see Martin and Hanington)
 * **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction (see Martin and Hanington)
@@ -70,10 +70,10 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 * **affect**: unqualified or pre-personal intensity; not feelings (because it isn't labeled); not emotions (because it isn't projected); important in studies of play (see Brian Massumi and Eric Shouse)
 * **conjectural criticism**: "the recovery of lost readings in classical texts, and the computational modeling of the evolution of a literary work or the descent of a natural language;" it is "concerned with issues of transmission, transformation, and prediction" (see Kari Kraus)
 * **forensic imagination**: creative and critical work involving deep attention to the material particulars or intricate details of media; often includes an interest in storage, inscription, and instrumentation; think Blake seeing a world in a grain of sand (see Matthew Kirschenbaum)
-* **ludology**: coming soon 
+* **ludology**: the study of games and gaming, with an emphasis on play and cultures of play  
 * **media archaeology**: "a methodological preference for rejecting the projection of generalized theories in favor of precise case studies, that is, for embedded theory;" "this method aims to avoid prematurely interpreting archival or archaeological evidence as documents of history but rather isolates this data into discrete series in order to rearrange them and open them for different configurations. The mechanism of human memory is selective, transformative, and thus productive of historical imagination, whereas the general inventory of photography [for example] in accordance with media logic registers temporal events without demanding a binding historical narrative;" "media archaeology is on the side of the indexical and the archival mode of writing" (see Wolfgang Ernst via  Jussi Parikka)
 * **memory**: the process of compiling or re-membering this into that; contingent on materials and embodiment; necessarily relational and arguably always interpretive; prompts questions about what people wish to forget or not remember (compare with storage) (see Wendy Chun)
-* **narratology**: coming soon 
+* **narratology**: the study (often structural) of narrative, including how narrative shapes interpretation, perception, anbd the reproduction of stories  
 * **ontological theatre**: the use of scenarios, media, or performance to inspire people to make something similar to what's presented; used to prompt engagement instead of re-presentation (see Andrew Pickering) 
 * **procedural experiments**: the use of algorithmic or "uncreative" methods to produce unexpected and illuminative results (see Bethany Nowviskie and OuLiPo)
 * **speculative fiction**: an umbrella term for science fiction, fantasy, futurisms, dystopias, utopias, horror, and the supernatural 
