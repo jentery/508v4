@@ -29,12 +29,13 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
 * **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
 * **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
-* **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game     
+* **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game  
+* **campaign**: the game and/or characters change over time, such that the results of one game may influence future plays; they thus involve multiple play sessions      
 * **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play    
 * **collection** (or set collection): a mechanic that encourages players to collect sets of items; common in party games and hand management    
 * **collusion**: when players form secret agreements during a game; some games, including secret identity games, encourage collusion    
 * **components**: tactile parts or bits of a game
-* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or game master; also refrains from pitting players against each other (compare with negotiation)          
+* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or moderator; also refrains from pitting players against each other (compare with negotiation)          
 * **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players    
 * **dexterity**: games that involve physical dexterity to perform actions or tasks     
 * **dynamics**: embodied patterns of play
@@ -46,31 +47,32 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
 * **induction**: forming conclusions by inferring the general from the specific; often used to drive experimentation in games    
 * **incentive**: what motivates players to continue playing a game or to play it more than once     
-* **investment**: used by players to describe the replay value of a game      
+* **investment**: used by players to describe the replay value of a game; may also imply a game mechanic involving the investment of capital        
 * **legacy**: games that change over time based on the outcome of each game played and the choices made by players    
 * **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically    
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
 * **metagaming**: analyzing a game aloud as you play it; used for planning but, in some cases, also to shape play and dynamics; depending on the game and community, it may be encouraged or frowned upon (see Stewart Woods) (compare with kibitzing)    
 * **mixed motive**: games where the interests or incentives of players are neither strictly coincident nor strictly opposed    
 * **negotiation**: a mechanic where players are encouraged to make deals, alliances, and bribes; may also involve betrayal (compare with cooperation)   
-* **pacing**: coming soon 
-* **prediction**: coming soon 
-* **programmed movement**: coming soon 
-* **randomness**: coming soon 
-* **real-time**: coming soon 
-* **risk**: coming soon 
-* **route or network building**: coming soon 
+* **pacing**: the speed or intensity of game play or progression through a game    
+* **prediction**: a mechanic that requires players to forecast or anticipate what may happen later in the game (compare with randomness)  
+* **programmed movement** (or action/movement programming): a mechanic where players (often secretly) choose and commit their moves for the next turn; all actions are determined and locked before they are executed; requires planning ahead  
+* **randomness**: a lack of predictability in events; this lack is usually designed into a game and interpreted by players as chance, luck, and even fate; when used persuasively, it increases incentive and/or perceived relevance of actions; when not used persuasively, it overwhelms players, decreases incentive, and/or eclipses sense of agency or choice (compare with prediction)    
+* **real-time**: when players take their turns simultaneously; players may not be rewarded if they do not act in time    
+* **risk**: the perceived payoff or penalty for an action; it entails uncertainty, reward, and randomness   
+* **route or network building**: a mechanic in games involving networks where players are encouraged to build connections or long chains of pieces; common in train and grid games   
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
-* **tableau**: coming soon 
+* **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
-* **turns**: coming soon 
-* **uncertainty principle**: coming soon 
+* **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable    
+* **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation    
+* **zero-sum game**: a player's gain or loss of action (or utility) is exactly balanced by the other players' gain or loss of action (or utility); the total gains less the total losses equals zero      
 
 ## Design Speak
 
 * **action writing**: either prompts specific behaviours/responses (against standardized or normalized reading practices) or contains charged design elements (see Steven Marcus)
 * **A-D-M**: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
-* **affordances**: coming soon 
+* **affordances**: what environments or objects offer individual animals; always relational and thus never fixed; exists regardless of whether it is perceived or recognized (see J.J. Gibson) 
 * **aleatory procedures**: the use of chance or randomness in design; often intended to reduce a sense of control; also a critique of romantic genius 
 * **alternative uses task**: ask people to list as many possible uses for a common household item; assessed on originality, fluency, flexibility, and elaboration (see Guilford via Kari Kraus)
 * **artifact analysis**: study a given text's *materials* (composition, components, durability, wear, disposibility), *aesthetics* (form, color, texture, references, emotional significance), *affordances* (operational uses, functions, complexity), *context* (where it's stored and carried, whether part of a larger whole, time and space, ownership, public, private), and *potential* for misuse and repurposing (see Martin and Hanington)
@@ -80,7 +82,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **design as inquiry**: treating design as a mode or line of research, as opposed to rendering it to be a quality of an object or a property inherent to an object (see Daniela Rosner)
 * **design fiction**: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
-* **interface**: coming soon (see Lori Emerson)
+* **interface**: a space or modality of engagement between two or more systems or entities; a common example is the graphical user interface (GUI) of computers; interfaces help turn this (e.g., input) into that (e.g., output); they are designed even if they are intangible, unstable, and difficult (impossible?) to isolate; they are often depicted as either portals (transparent windows that transport you) or edges (boundary-makers that mediate you) (see Lori Emerson and Alexander Galloway)   
 * **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A) (see Hunicke, LeBlanc, and Zubek)
 * **machine-woven book**: a book consisting of thread woven by a Jacquard machine using punched cards; see https://www.uvic.ca/library/locations/home/spcoll/collections/medieval/ms-fr-2.php
 * **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement; a popular term during the 19th c. 
@@ -95,6 +97,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **scenario prototyping**: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view (see Martin and Hanington)
 * **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction (see Martin and Hanington)
 * **speculative design**: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see Carl DiSalvo and Jonathan Lukens; Anthony Dunne and Fiona Raby; and Stuart Candy)
+* **wireframing**: a technique for drawing the structure, layout, hierarchy, format, and functionality of an interface; used to express concepts in visual form; usually done early in a project; specific content (particular images or certain words) is saved for later, and placeholder content (such as lorem ipsum) is used instead    
 * **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning (see Martin and Hanington)
 * **zine**: variant of fanzine; made by fans or aficionados; often made by collectives, who may be anonymous; origin story linked to sci-fi scenes of the 1930s; "handmade, noncommercial, irregularly issued, small-run, paper publications circulated by individuals participating in alternative, special-interest communities" (140); grew in popularity with punk during the 1970s and 80s; symbols of an "alternative press"; often asserts voice of youth (as subjects, not objects) (145); call "forth a range of intersubjective activities, including reading, certainly, but also exchanging, mailing, bartering, networking, letter writing, and even face-to-face meeting" (148) (see Janice Radway)
 
@@ -118,7 +121,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 
 * **bit box**: a collection of components for playing and/or designing tabletop games 
 * **Dublin Core**: a small set of metadata vocabulary terms that can be used to describe digital resources as well as physical resources; often used to link resources together ("semantic web")
-* **metadata**: coming soon (see Bowker and Star) 
+* **metadata**: data about data; used to describe, structure, administer, qualify, and quantify resources; often standardized through a core terms and controlled vocabularies (see Bowker and Star)   
 * **Markdown**: a lightweight markup language with plain text formatting syntax; designed to be converted into other formats, such as HTML; extension/suffix is MD (but TXT also works)
 * **Tabletop Simulator**: allows people to play and create tabletop games in a multiplayer physics sandbox; created with the Unity engine 
 * **text editor**: a piece of software for editing "plain text" as character representations; seen as an alternative to what-you-see-is-what-you-get (WYSIWYG) word processors and rich text; often entwined with rhetorics of command line or coding knowledge as well as distraction-free composition 
@@ -166,6 +169,21 @@ Prototyping asks how texts address us like (or as) images (see WJT Mitchell). Th
 * Texts are *dogma*, intended for followers. Here, lists, point form, and order are foregrounded (e.g., litany). As image, the **text wants to be copied, distributed, consulted, and observed**. It directs or guides.
 * Texts are *policy or law*, intended for nations, citizens, or employees. Here, an absence of aesthetics, a lack of variation, or an assertion of consistency is crucial (e.g., protocol). The **text does not want to be an image. It wants to be code or procedure**, with a standard. It is executable.
 
+How artists' books, manifestos, and zines may inform tabletop design: 
+
+* **Form**: How does the game interrogate the material and conceptual form of tabletop games? 
+* **Repetition**: How does the game resist standardized or mechanical repetition? Consider how perception is disciplined and trained. 
+* **Imagination**: How does the game rely on imaginative uses of the means or modes of reproduction? 
+* **Publisher**: How is the game published, and by whom? 
+* **Audience**: How does the game imply an informed audience? What does it assume about the audience?  
+* **The Multiple**: How is (or isn't) the game a democratic multiple? How is (or isn't) it accessible? 
+* **Ideology**: How does the game direct, manipulate, instruct, or hail players? How assertive is it? 
+* **Advertisement**: How does the game sell itself? 
+* **Indie**: How is the game handmade? What is its relation to commercial media? What traces of the designer persist in the game? 
+* **Community**: Does the game involve special-interest communities? For whom and by whom is it made? Do these communities tend to see themselves in the mainstream? Does the mainstream speak for them? 
+* **Subjectivity**: What intersubjective activities does the game prompt? Consider, e.g., how zines are exchanged, mailed, and repurposed, or how they play a role in f2f meetings, networking, organizing, and community-building.  
+* **Object**: How and by whom is the game collected? Where is it found? How is value assigned to it? By whom? 
+
 ## List of Games 
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
@@ -176,6 +194,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Codex Conquest* (by Amy Hildreth Chen; a card game about book history and curatorial practices)
 * *Coup* (party, deduction, take-that, elimination, 2-6 players)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
+* *Gloomhaven* (fantasy, campaign, cooperative, modular board, hand management, role-playing, variable player powers, 1-4 players)
 * *Hanabi* (memory, cooperative, hand management, set collection, 2-5 players)
 * *Hive* (abstract, grid, tile placement, 2 players)
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
