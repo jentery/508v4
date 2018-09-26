@@ -179,7 +179,7 @@ How artists' books, manifestos, and zines may inform tabletop design:
 * **The Multiple**: How is (or isn't) the game a democratic multiple? How is (or isn't) it accessible? 
 * **Ideology**: How does the game direct, manipulate, instruct, or hail players? How assertive is it? 
 * **Advertisement**: How does the game sell itself? 
-* **Indie**: How is the game handmade? What is its relation to commercial media? What traces of the designer persist in the game? 
+* **Indie**: How is the game crafted? What is its relation to commercial media? What traces of the designer persist in the game? 
 * **Community**: Does the game involve special-interest communities? For whom and by whom is it made? Do these communities tend to see themselves in the mainstream? Does the mainstream speak for them? 
 * **Subjectivity**: What intersubjective activities does the game prompt? Consider, e.g., how zines are exchanged, mailed, and repurposed, or how they play a role in f2f meetings, networking, organizing, and community-building.  
 * **Object**: How and by whom is the game collected? Where is it found? How is value assigned to it? By whom? 
