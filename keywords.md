@@ -164,6 +164,10 @@ Prototyping asks how texts address us like (or as) images (see WJT Mitchell). Th
 * Texts are *dogma*, intended for followers. Here, lists, point form, and order are foregrounded (e.g., litany). As image, the **text wants to be copied, distributed, consulted, and observed**. It directs or guides.
 * Texts are *policy or law*, intended for nations, citizens, or employees. Here, an absence of aesthetics, a lack of variation, or an assertion of consistency is crucial (e.g., protocol). The **text does not want to be an image. It wants to be code or procedure**, with a standard. It is executable.
 
+How artists' books, manifestos, and zines may inform tabletop design: 
+
+coming soon
+
 ## List of Games 
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
