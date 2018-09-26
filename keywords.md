@@ -23,21 +23,52 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 
 ## Game Speak
 
+* **abstracts**: coming soon 
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
+* **ameritrash**: coming soon 
+* **analysis paralysis**: coming soon
+* **area control**: coming soon 
+* **character development**: coming soon 
+* **collection**: coming soon 
+* **collusion**: coming soon 
 * **components**: tactile parts or bits of a game
+* **cooperation**: coming soon 
+* **deduction**: coming soon 
+* **dexterity**: coming soon 
 * **dynamics**: embodied patterns of play
+* **escape**: coming soon 
+* **eurogame**: coming soon 
 * **family**: the genre of the game 
 * **game space**: the area of the game
 * **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
 * **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
+* **induction**: coming soon 
+* **incentive**: coming soon 
+* **investment**: coming soon 
+* **legacy**: coming soon 
+* **leveling**: coming soon 
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
+* **metagaming**: coming soon 
+* **mixed motive**: coming soon 
+* **negotiation**: coming soon 
+* **pacing**: coming soon 
+* **prediction**: coming soon 
+* **programmed movement**: coming soon 
+* **randomness**: coming soon 
+* **real-time**: coming soon 
+* **risk**: coming soon 
+* **route or network building**: coming soon 
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
+* **tableau**: coming soon 
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
+* **turns**: coming soon 
+* **uncertainty principle**: coming soon 
 
 ## Design Speak
 
 * **action writing**: either prompts specific behaviours/responses (against standardized or normalized reading practices) or contains charged design elements (see Steven Marcus)
 * **A-D-M**: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
+* **affordances**: coming soon 
 * **aleatory procedures**: the use of chance or randomness in design; often intended to reduce a sense of control; also a critique of romantic genius 
 * **alternative uses task**: ask people to list as many possible uses for a common household item; assessed on originality, fluency, flexibility, and elaboration (see Guilford via Kari Kraus)
 * **artifact analysis**: study a given text's *materials* (composition, components, durability, wear, disposibility), *aesthetics* (form, color, texture, references, emotional significance), *affordances* (operational uses, functions, complexity), *context* (where it's stored and carried, whether part of a larger whole, time and space, ownership, public, private), and *potential* for misuse and repurposing (see Martin and Hanington)
