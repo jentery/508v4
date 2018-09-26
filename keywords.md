@@ -175,7 +175,7 @@ How artists' books, manifestos, and zines may inform tabletop design:
 * **Repetition**: How does the game resist standardized or mechanical repetition? Consider how perception is disciplined and trained. 
 * **Imagination**: How does the game rely on imaginative uses of the means or modes of reproduction? 
 * **Publisher**: How is the game published, and by whom? 
-* **Audience**: How does the game imply an informed audience? What does it assume about the audience?  
+* **Audience**: How does the game imply an informed audience? What does it assume about players?  
 * **The Multiple**: How is (or isn't) the game a democratic multiple? How is (or isn't) it accessible? 
 * **Ideology**: How does the game direct, manipulate, instruct, or hail players? How assertive is it? 
 * **Advertisement**: How does the game sell itself? 
