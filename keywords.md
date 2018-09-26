@@ -176,6 +176,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
 * *Hanabi* (memory, cooperative, hand management, set collection, 2-5 players)
 * *Hive* (abstract, grid, tile placement, 2 players)
+* *Gloomhaven* coming soon 
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
 * *Machi Koro* (city building, card drafting, 2-4 players)
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
