@@ -23,34 +23,36 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 
 ## Game Speak
 
-* **abstracts**: coming soon 
+Many of these working definitions are drawn from [Board Game Geek](https://boardgamegeek.com/). 
+
+* **abstracts**: a game that does not rely significantly (if at all) on chance or a theme; very little (if any) information is hidden, and dice are almost never used  
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
-* **ameritrash**: coming soon 
-* **analysis paralysis**: coming soon
-* **area control**: coming soon 
-* **character development**: coming soon 
-* **collection**: coming soon 
-* **collusion**: coming soon 
+* **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
+* **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
+* **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game     
+* **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play    
+* **collection** (or set collection): a mechanic that encourages players to collect sets of items; common in party games and hand management    
+* **collusion**: when players form secret agreements during a game; some games, including secret identity games, encourage collusion    
 * **components**: tactile parts or bits of a game
-* **cooperation**: coming soon 
-* **deduction**: coming soon 
-* **dexterity**: coming soon 
+* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or game master; also refrains from pitting players against each other (compare with negotiation)          
+* **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players    
+* **dexterity**: games that involve physical dexterity to perform actions or tasks     
 * **dynamics**: embodied patterns of play
-* **escape**: coming soon 
-* **eurogame**: coming soon 
+* **escape**: a puzzle-based collaborative mechanic in games; also manifests as a theme via the escape room     
+* **eurogame**: a strategy-driven game with indirect player interaction (or conflict), abstract physical components, balance, and little (if any) chance or randomness (compare with ameritrash)        
 * **family**: the genre of the game 
 * **game space**: the area of the game
 * **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
 * **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
-* **induction**: coming soon 
-* **incentive**: coming soon 
-* **investment**: coming soon 
-* **legacy**: coming soon 
-* **leveling**: coming soon 
+* **induction**: forming conclusions by inferring the general from the specific; often used to drive experimentation in games    
+* **incentive**: what motivates players to continue playing a game or to play it more than once     
+* **investment**: used by players to describe the replay value of a game      
+* **legacy**: games that change over time based on the outcome of each game played and the choices made by players    
+* **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically    
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
-* **metagaming**: coming soon 
-* **mixed motive**: coming soon 
-* **negotiation**: coming soon 
+* **metagaming**: analyzing a game aloud as you play it; used for planning but, in some cases, also to shape play and dynamics; depending on the game and community, it may be encouraged or frowned upon (see Stewart Woods) (compare with kibitzing)    
+* **mixed motive**: games where the interests or incentives of players are neither strictly coincident nor strictly opposed    
+* **negotiation**: a mechanic where players are encouraged to make deals, alliances, and bribes; may also involve betrayal (compare with cooperation)   
 * **pacing**: coming soon 
 * **prediction**: coming soon 
 * **programmed movement**: coming soon 
@@ -164,10 +166,6 @@ Prototyping asks how texts address us like (or as) images (see WJT Mitchell). Th
 * Texts are *dogma*, intended for followers. Here, lists, point form, and order are foregrounded (e.g., litany). As image, the **text wants to be copied, distributed, consulted, and observed**. It directs or guides.
 * Texts are *policy or law*, intended for nations, citizens, or employees. Here, an absence of aesthetics, a lack of variation, or an assertion of consistency is crucial (e.g., protocol). The **text does not want to be an image. It wants to be code or procedure**, with a standard. It is executable.
 
-How artists' books, manifestos, and zines may inform tabletop design: 
-
-coming soon
-
 ## List of Games 
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
@@ -180,7 +178,6 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
 * *Hanabi* (memory, cooperative, hand management, set collection, 2-5 players)
 * *Hive* (abstract, grid, tile placement, 2 players)
-* *Gloomhaven* coming soon 
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
 * *Machi Koro* (city building, card drafting, 2-4 players)
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
