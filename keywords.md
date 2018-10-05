@@ -25,7 +25,8 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 
 Many of these working definitions are drawn from [Board Game Geek](https://boardgamegeek.com/). 
 
-* **abstracts**: a game that does not rely significantly (if at all) on chance or a theme; very little (if any) information is hidden, and dice are almost never used  
+* **abstracts**: a game that does not rely significantly (if at all) on chance or a theme; very little (if any) information is hidden, and dice are almost never used 
+* **alignment**: a categorization of the moral and ethical perspective of player characters, non-player characters, and societies/groups in the game
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
 * **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
 * **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
@@ -39,9 +40,12 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players    
 * **dexterity**: games that involve physical dexterity to perform actions or tasks     
 * **dynamics**: embodied patterns of play
+* **edition**: a particular form or version of a game; used to develop a game over time but also to apply special interests or themes to it 
+* **end/win conditions**: the conditions that result in the conclusion of a game; mechanisms include empty hands, group or individual achievements, set collections, area control, arrival at a destination, the expiry of time, the end of a story, player elimination, a score, and the conclusion of a scenario or level 
 * **escape**: a puzzle-based collaborative mechanic in games; also manifests as a theme via the escape room     
 * **eurogame**: a strategy-driven game with indirect player interaction (or conflict), abstract physical components, balance, and little (if any) chance or randomness (compare with ameritrash)        
-* **family**: the genre of the game 
+* **family**: the genre of the game
+* **game**: a situation with guidelines and procedures (see Flanagan)
 * **game space**: the area of the game
 * **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
 * **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
@@ -64,6 +68,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
 * **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
+* **tiles**: components used as playing pieces, board pieces, or geometries in games (compare (*Dominoes* with *Carcassonne*) 
 * **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable    
 * **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation    
 * **zero-sum game**: a player's gain or loss of action (or utility) is exactly balanced by the other players' gain or loss of action (or utility); the total gains less the total losses equals zero      
@@ -78,25 +83,43 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **artifact analysis**: study a given text's *materials* (composition, components, durability, wear, disposibility), *aesthetics* (form, color, texture, references, emotional significance), *affordances* (operational uses, functions, complexity), *context* (where it's stored and carried, whether part of a larger whole, time and space, ownership, public, private), and *potential* for misuse and repurposing (see Martin and Hanington)
 * **artist's book**: interrogates the material and conceptual form of the book; not reducible to the vision of an editor; refrains from standardized or mechanical repetition; imaginative use of methods and means of production, including but not limited to fine printing; may involve indie printing or publishing; expresses independent or activist thought; implies an informed viewer; not a democratic multiple (see Johanna Drucker)
 * **blanks**: they are printed and used, not authored or read; they connect the intimacy of material objects and collections with the abstractions of bureaucracy, forms, and social structures; also prompt input from readers (see Lisa Gitelman)
+* **concept doc**: an early step in design; it explains the proposed game, identifies its category and intended audience (including number of players, age minimum, and anticipated duration of play), describes the theme and key mechanics (including goals, chance / randomness, and player choices), lists core features, and may engage related issues of history, aesthetics, and politics  
 * **context of use**: a way to consider actual situations and practices of use (as opposed to ideal forms or intended uses) (see Andrea Botero)
+* **design charrette**: participants rapidly generate ideas and rotate through small groups to bring ideas forward (see Martin and Hanington)
 * **design as inquiry**: treating design as a mode or line of research, as opposed to rendering it to be a quality of an object or a property inherent to an object (see Daniela Rosner)
 * **design fiction**: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
+* **Elito method**: observation (what did you see, read, or hear?), judgment (what is your opinion about it?), value (what values were at work?), concept/sketch (what can a team/person do to address the issues?), and key metaphor (what is the hook or tagline?) (see Martin and Hanington)
+* **feature or scope creep**: when projects continue to expand by adding new features or expanding their scope of inquiry/engagement; adding features adds complexity, which may be time-consuming; some people create milestones to "freeze" a project; questions to help prevent creep include, Could the new idea or component stand on its own? Is it actually a new project? What exactly will it improve? Can it wait? Have you slept on it? How much more work will it produce, and for whom? How much more time will it require? What could instead be removed, revised, or changed? (see Lidwell, Holden, and Butler)    
+* **five hat racks**: info can be organized five ways (category or similarity, time, location, alphabet, and continuum or magnitude) (see Lidwell, Holden, and Butler)
+* **flexibility trade-off**: some argue that usability and performance decrease as flexibility of a design increases (see Lidwell, Holden, and Butler) 
+* **inspiration (for design)**: inspiration assumes various forms; it’s not always an homage; it may be partial, or it may be a reaction to a past movement or principle; it may be just an impression, or it may be quite literal (imitation or mimicry)
 * **interface**: a space or modality of engagement between two or more systems or entities; a common example is the graphical user interface (GUI) of computers; interfaces help turn this (e.g., input) into that (e.g., output); they are designed even if they are intangible, unstable, and difficult (impossible?) to isolate; they are often depicted as either portals (transparent windows that transport you) or edges (boundary-makers that mediate you) (see Lori Emerson and Alexander Galloway)   
+* **KISS**: Keep It Simple Stupid; minimal elements with minimal interaction between them; simple designs are easier to build and maintain (see Kelly Johnson)
+* **language independence**: the degree to which a game works across alphabetic languages or without the need for alphabetic languages; language independent games rely heavily on icons to prompt and facilitate action
 * **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A) (see Hunicke, LeBlanc, and Zubek)
 * **machine-woven book**: a book consisting of thread woven by a Jacquard machine using punched cards; see https://www.uvic.ca/library/locations/home/spcoll/collections/medieval/ms-fr-2.php
 * **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement; a popular term during the 19th c. 
 * **manifesto**: public declarations (and often loud ones at that) (Mary Ann Caws 2001: xix), announcements of motives for forthcoming action (xix), acts of deliberate manipulation (both aesthetic and political) (xix), rooted in the hand (manus) or handmade (xix), directives (usually against something) articulated by a specific "we" (xxi), serious, and frequently without irony (xxi), situated in time, typically with an investment in being first (xxiii), instructive or pedagogical (xxiii), arranged or, indeed, designed (xxiii), efforts to label or categorize (even if loosely) (xxiv), duck, not decoration (xxv), written in the present tense (now!) (xxvi), advertisements (they sell themselves) (xxv), and subject to redefinition and recontextualization over time (xxviii-xxix)
+* **mashup**: the combination of two or more board games into one 
 * **moveable book**: another term for a pop-up book or a book with moving (paper) parts  
 * **near futures**: thinking and designing in terms of possible tomorrows (as opposed to distant futures) (see Julian Bleecker)
-* **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway) 
+* **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway)
+* **parallel prototyping**: simultaneously exploring multiple design ideas before selecting one approach; shifts focus from designer to designing (see Martin and Hanington) 
 * **participatory research and design**: cyclical, collaborative processes that intend to change members of the inquiry; involves numerous groups (not just designers) in the design process (see Martin and Hanington)
+* **playtesting**: "playtesting is all about getting people to come play your game to see if it engenders the experience for which it was designed;" stages are exploring a design space, refining a design, and negotiating with all involved (see Hammer et al.)
 * **prediction**: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
+* **procedural representation or narrative design**: "close correspondence between [a] game’s formal devices and abstracted elements of [a] historical [or fictitious] situation" (see Kirschenbaum; see also  Salen Tekinbas, Zimmerman, and Ryan)
 * **protocol**: a principle and procedure of organization; in technology circles, it may be universally adopted (e.g., http) to standardize information flow and communication (see Galloway)  
 * **restoration**: "a means to re-establish [a cultural object] in a completed state, which may in fact never have actually existed at any given time;" involves speculation in the process (see Eugène Emmanuel Viollet-le-Duc via Kari Kraus)
 * **scenario prototyping**: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view (see Martin and Hanington)
 * **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction (see Martin and Hanington)
 * **speculative design**: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see Carl DiSalvo and Jonathan Lukens; Anthony Dunne and Fiona Raby; and Stuart Candy)
+* **stability (refining)**: stable design environments favour refinement (see Lidwell, Holden, and Butler)
+* **stickiness (SUCCES)**: one explanation for why things go viral; Simple, Unexpected, Concrete, Credible, Emotional, Stories (see Lidwell, Holden, and Butler) 
+* **storyboarding**: visual narrative that generates empathy and communicates the context for proposed design (usually only three to six panels) (see Martin and Hanington)
+* **swimlanes**: four in total, presented in parallel; storyboard lane (captures events in a user story using comics, photographs, images), user experience lane (details user experience with a flowchart), business process lane (articulate the business logic of the experience), and tools and systems lane (back-end technologies that support actions) (see Martin and Hanington) 
+* **volatility (experimentation)**: volatile environments tend to favour experimentation (see Lidwell, Holden, and Butler)
 * **wireframing**: a technique for drawing the structure, layout, hierarchy, format, and functionality of an interface; used to express concepts in visual form; usually done early in a project; specific content (particular images or certain words) is saved for later, and placeholder content (such as lorem ipsum) is used instead    
 * **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning (see Martin and Hanington)
 * **zine**: variant of fanzine; made by fans or aficionados; often made by collectives, who may be anonymous; origin story linked to sci-fi scenes of the 1930s; "handmade, noncommercial, irregularly issued, small-run, paper publications circulated by individuals participating in alternative, special-interest communities" (140); grew in popularity with punk during the 1970s and 80s; symbols of an "alternative press"; often asserts voice of youth (as subjects, not objects) (145); call "forth a range of intersubjective activities, including reading, certainly, but also exchanging, mailing, bartering, networking, letter writing, and even face-to-face meeting" (148) (see Janice Radway)
@@ -105,16 +128,26 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 
 * **affect**: unqualified or pre-personal intensity; not feelings (because it isn't labeled); not emotions (because it isn't projected); important in studies of play (see Brian Massumi and Eric Shouse)
 * **conjectural criticism**: "the recovery of lost readings in classical texts, and the computational modeling of the evolution of a literary work or the descent of a natural language;" it is "concerned with issues of transmission, transformation, and prediction" (see Kari Kraus)
+* **critical play**: "Critical play is characterized by a careful examination of social, cultural, political, and even personal themes that function as alternates to popular play spaces;" also, "using play for a phase change" (see Flanagan)
+* **deformance**: interpretation through alteration (reordering a text, deleting all verbs or nouns, or reading backward) (see Samuels and McGann)
+* **eversion**: how the internet has turned inside-out, from cyberspace to internet of things; one approach to understanding how board games are played online, with tablets, or through a combination of media types (see Gibson and Jones)
 * **forensic imagination**: creative and critical work involving deep attention to the material particulars or intricate details of media; often includes an interest in storage, inscription, and instrumentation; think Blake seeing a world in a grain of sand (see Matthew Kirschenbaum)
+* **forensic materiality**: associated with the matter of media, individualizations between their versions, data inscription, storage, and the space of hard drives (see Kirschenbaum) (compare with formal materiality)
+* **formal materiality**: associated with the symbolic logic of media, similarity between their versions, data transmission, modeling, and the space of computer screens (see Kirschenbaum) (compare with forensic materiality)
+* **ludic algorithm**: a position asserting that "interpretation is merely aided by mechanism, not produced mathematically or mechanically," with an emphasis on the hermeneutic basis of algorithms and algorithmic criticism (see Nowviskie)  
 * **ludology**: the study of games and gaming, with an emphasis on play and cultures of play  
 * **media archaeology**: "a methodological preference for rejecting the projection of generalized theories in favor of precise case studies, that is, for embedded theory;" "this method aims to avoid prematurely interpreting archival or archaeological evidence as documents of history but rather isolates this data into discrete series in order to rearrange them and open them for different configurations. The mechanism of human memory is selective, transformative, and thus productive of historical imagination, whereas the general inventory of photography [for example] in accordance with media logic registers temporal events without demanding a binding historical narrative;" "media archaeology is on the side of the indexical and the archival mode of writing" (see Wolfgang Ernst via  Jussi Parikka)
 * **memory**: the process of compiling or re-membering this into that; contingent on materials and embodiment; necessarily relational and arguably always interpretive; prompts questions about what people wish to forget or not remember (compare with storage) (see Wendy Chun)
 * **narratology**: the study (often structural) of narrative, including how narrative shapes interpretation, perception, anbd the reproduction of stories  
 * **ontological theatre**: the use of scenarios, media, or performance to inspire people to make something similar to what's presented; used to prompt engagement instead of re-presentation (see Andrew Pickering) 
 * **procedural experiments**: the use of algorithmic or "uncreative" methods to produce unexpected and illuminative results (see Bethany Nowviskie and OuLiPo)
+* **procedural literacy**: "the ability to reconfigure basic concepts and rules to understand and solve problems, not just on the computer, but in general;" may also serve the purposes of experimentation, without any aim to solve problems (see Bogost)
+* **provenance**: a chronology or history of ownership, custody, and location of an object
+* **remediation**: the cultural tendency to multiply media (hypermediacy) and also erase traces of mediation (immediacy); attends to how old media refashion themselves or are refashioned through new media (see Bolter and Grusin)  
 * **speculative fiction**: an umbrella term for science fiction, fantasy, futurisms, dystopias, utopias, horror, and the supernatural 
 * **storage**: the inscription or housing of records and files; emphasis often on discrete units and keeping things found; central to GLAM work (compare with memory)
 * **subjunctive knowledge**: "knowledge about what might have been or could be or almost was" (see Kari Kraus)
+* **versioning**: creating multiple releases of a design or text as well as assigning unique numbers or names to particular states of that design or text (see Kirschenbaum)
 * **work-expression-manifestation-item**: works are realized through one or more expressions, which are embodied as manifestations, which are exemplified as items; for instance, content (work) may be written in English and French (expressions), published (manifestation) by a press, and circulated in batches of 5000 copies (each copy = an item) (see FRBR) 
 
 ## Tech Speak
@@ -184,24 +217,44 @@ How artists' books, manifestos, and zines may inform tabletop design:
 * **Subjectivity**: What intersubjective activities does the game prompt? Consider, e.g., how zines are exchanged, mailed, and repurposed, or how they play a role in f2f meetings, networking, organizing, and community-building.  
 * **Object**: How and by whom is the game collected? Where is it found? How is value assigned to it? By whom? 
 
+Integrating ludic algorithms and critical play into game design: 
+
+* How does the game understand play as an embodied process and situated action? 
+* How could the game refrain from treating its players as "users," or as audiences merely in receipt of a product to be collected and consumed? 
+* How could the game help people to think through (and not just rehearse) its system of rules and procedures? Its content model?  
+* How could the game be more than the "output" of a designer? How could it be a space or situation for interpretation? How could it and its context of play afford different play styles? How could it be, e.g., reskinned, unplayed, or rewritten? 
+* How could the game's procedures facilitate interpretation (as opposed to producing meaning mechanically or mathematically)? How could those procedures support values, and which values? 
+* How could the game afford alternatives to popular play spaces? How might play (and not just design) change the norms of games and gaming cultures? Of dominant themes and mechanics? 
+* How could the game prompt a "phase change"? How would that phase change be defined, by whom, and with what social, cultural, political, and/or aesthetic goals in mind?  
+
 ## List of Games 
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
 
 * *Capital Lux* (science fiction, card drafting, hand management, bluffing, 2-4 players)
+* *Carcassonne* (medieval, area influence, tile placement, 2-5 players)
+* *Castles of Burgundy* (medieval, dice rolling, tile placement, set collection, 2-4 players)
 * *Citadels* (fantasy, city building, card drafting, variable player powers, 2-8 players)
 * *Codenames* (party, memory, partnership, 2-8 players)
 * *Codex Conquest* (by Amy Hildreth Chen; a card game about book history and curatorial practices)
+* *Concordia* (ancient, card drafting, deck building, point-to-point movement, 2-5 players)
 * *Coup* (party, deduction, take-that, elimination, 2-6 players)
+* *Dominion* (medieval, card drafting, deck building, hand management, 2-4 players)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
+* *Galaxy Trucker* (science fiction, partnership, tile placement, 2-4 players)
 * *Gloomhaven* (fantasy, campaign, cooperative, modular board, hand management, role-playing, variable player powers, 1-4 players)
 * *Hanabi* (memory, cooperative, hand management, set collection, 2-5 players)
 * *Hive* (abstract, grid, tile placement, 2 players)
+* *Kingdomino* (medieval, territory building, tile placement, 2-4 players)
+* *Lost Cities* (exploration, hand management, set collection, 2 players)
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
 * *Machi Koro* (city building, card drafting, 2-4 players)
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
 * *Monikers* (party, drafting, role-playing, 4-20 players)
 * *One Night Ultimate Werewolf* (party, role-playing, variable player powers, voting, 3-10 players)
+* *Pandemic* (medical, cooperative, point-to-point movement, hand management, variable player powers, 2-4 players)
+* *Patchwork* (abstract, time track, tile placement, 2 players)
+* *Power Grid* (economic, bidding, network building, 2-6 players)
 * *The Resistance* (bluffing, spies, simultaneous action selection, partnerships, 5-10 players)
 * *Secrets* (party, spies, card drafting, take-that, 4-8 players)
 * *Skull* (party, bidding, bluffing, elimination, 3-6 players)
