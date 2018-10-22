@@ -31,8 +31,8 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
 * **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
 * **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game 
-* **auction** a mechanic that requires players to place a bid (usually with money) on items in an auction of goods in order to enhance their position in the game; these goods afford future actions or improve a position (see also bidding)
-* **bidding** see auction 
+* **auction**: a mechanic that requires players to place a bid (usually with money) on items in an auction of goods in order to enhance their position in the game; these goods afford future actions or improve a position (see also bidding)
+* **bidding**: see auction 
 * **bluffing**: an attempt to deceive someone into believing that one can or will do something in a game 
 * **campaign**: the game and/or characters change over time, such that the results of one game may influence future plays; they thus involve multiple play sessions      
 * **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play    
