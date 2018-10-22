@@ -30,15 +30,20 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
 * **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
 * **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
-* **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game  
+* **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game 
+* **auction** a mechanic that requires players to place a bid (usually with money) on items in an auction of goods in order to enhance their position in the game; these goods afford future actions or improve a position (see also bidding)
+* **bidding** see auction 
+* **bluffing**: an attempt to deceive someone into believing that one can or will do something in a game 
 * **campaign**: the game and/or characters change over time, such that the results of one game may influence future plays; they thus involve multiple play sessions      
 * **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play    
 * **collection** (or set collection): a mechanic that encourages players to collect sets of items; common in party games and hand management    
 * **collusion**: when players form secret agreements during a game; some games, including secret identity games, encourage collusion    
 * **components**: tactile parts or bits of a game
-* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or moderator; also refrains from pitting players against each other (compare with negotiation)          
+* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or moderator; also refrains from pitting players against each other (compare with negotiation) 
+* **deck or pool building**: players have a personal pool/collection of cards/tokens that provide different actions and/or resources; a subset of those cards/tokens is randomly drawn each turn; players manage the contents of their pool/collection by adding and removing cards/tokens over the course of the gameplay, often through actions provided by the cards/tokens themselves; over time, players build decks/pools that are more and more specialized and effective towards some purpose.     
 * **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players    
-* **dexterity**: games that involve physical dexterity to perform actions or tasks     
+* **dexterity**: games that involve physical dexterity to perform actions or tasks 
+* **drafting**: players pick cards, dice, or tokens from a limited subset, such as a common pool, to eithr gain some advantage (immediate or longterm) or assemble hands of cards or collections of dice/tokens used to meet objectives within the game  
 * **dynamics**: embodied patterns of play
 * **edition**: a particular form or version of a game; used to develop a game over time but also to apply special interests or themes to it 
 * **end/win conditions**: the conditions that result in the conclusion of a game; mechanisms include empty hands, group or individual achievements, set collections, area control, arrival at a destination, the expiry of time, the end of a story, player elimination, a score, and the conclusion of a scenario or level 
@@ -55,10 +60,14 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **legacy**: games that change over time based on the outcome of each game played and the choices made by players    
 * **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically    
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
+* **melding**: a meld is a set of matching cards, typically three or more, that earn players points and/or allow them to deplete their hand
 * **metagaming**: analyzing a game aloud as you play it; used for planning but, in some cases, also to shape play and dynamics; depending on the game and community, it may be encouraged or frowned upon (see Stewart Woods) (compare with kibitzing)    
 * **mixed motive**: games where the interests or incentives of players are neither strictly coincident nor strictly opposed    
-* **negotiation**: a mechanic where players are encouraged to make deals, alliances, and bribes; may also involve betrayal (compare with cooperation)   
-* **pacing**: the speed or intensity of game play or progression through a game    
+* **multi-use cards**: the design of cards that serve multiple purposes in a single game (from money and abilities to resources and effects)
+* **negotiation**: a mechanic where players are encouraged to make deals, alliances, and bribes; may also involve betrayal (compare with cooperation)
+* **pacing**: the speed or intensity of game play or progression through a game  
+* **pickup and deliver**: requires players to pick up an item at one location on the playing board and bring it to another location on the playing board; initial placement of the item can be either predetermined or random; there is usually a rule or another mechanic that determines where the item needs to go
+* **points salad**: a negative term used to describe games where all or many actions yield points 
 * **prediction**: a mechanic that requires players to forecast or anticipate what may happen later in the game (compare with randomness)  
 * **programmed movement** (or action/movement programming): a mechanic where players (often secretly) choose and commit their moves for the next turn; all actions are determined and locked before they are executed; requires planning ahead  
 * **randomness**: a lack of predictability in events; this lack is usually designed into a game and interpreted by players as chance, luck, and even fate; when used persuasively, it increases incentive and/or perceived relevance of actions; when not used persuasively, it overwhelms players, decreases incentive, and/or eclipses sense of agency or choice (compare with prediction)    
@@ -66,11 +75,17 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **risk**: the perceived payoff or penalty for an action; it entails uncertainty, reward, and randomness   
 * **route or network building**: a mechanic in games involving networks where players are encouraged to build connections or long chains of pieces; common in train and grid games   
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
+* **shedding**: when the player's objective is to be the first person to empty their hand of all cards 
+* **signaling**: a game with two players (sender and receiver); the sender has one of several types (private to the sender and unknown to the receiver) that determines their function and affects the messages they send; the receiver has only one type and thus their function is known; signaling games are Bayesian games, where players have incomplete information about the other players (e.g., info about their available strategies or payoffs), but also have beliefs with known probability distributions
 * **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
 * **tiles**: components used as playing pieces, board pieces, or geometries in games (compare (*Dominoes* with *Carcassonne*) 
-* **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable    
+* **trading**: players exchange game items between each other
+* **trashing**: putting cards (often strategically) into the discard pile
+* **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable 
+* **twitching**: a mechanic that requires fast decision-making    
 * **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation    
+* **worker placement** (or action drafting): requires a player to select specific actions from a set available to all players; actions are commonly selected by the placement of game pieces or tokens on selected action spaces; each player usually has a limited number of pieces with which to participate in the draft; some games achieve the same effect in reverse: the turn begins with action spaces filled by markers, which are claimed by players for some cost 
 * **zero-sum game**: a player's gain or loss of action (or utility) is exactly balanced by the other players' gain or loss of action (or utility); the total gains less the total losses equals zero      
 
 ## Design Speak
@@ -88,8 +103,11 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **design charrette**: participants rapidly generate ideas and rotate through small groups to bring ideas forward (see Martin and Hanington)
 * **design as inquiry**: treating design as a mode or line of research, as opposed to rendering it to be a quality of an object or a property inherent to an object (see Daniela Rosner)
 * **design fiction**: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
+* **design for cause**: find the factors that caused an effect, and design those factors into your game to guide players and procedures; the  emphasis is on why something happened (see Pulsipher)
+* **design for effect**: identify an effect that represents history or an event, and then design toward experience of that effect; the emphasis is on what happened (see Pulsipher)
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
 * **Elito method**: observation (what did you see, read, or hear?), judgment (what is your opinion about it?), value (what values were at work?), concept/sketch (what can a team/person do to address the issues?), and key metaphor (what is the hook or tagline?) (see Martin and Hanington)
+* **entry points**: good entry points feature minimal barriers, points of prospect, and progressive lures (entry points should survey available options and provide visible navigation options as well as orientation cues) (see Lidwell, Holden, and Butler)
 * **feature or scope creep**: when projects continue to expand by adding new features or expanding their scope of inquiry/engagement; adding features adds complexity, which may be time-consuming; some people create milestones to "freeze" a project; questions to help prevent creep include, Could the new idea or component stand on its own? Is it actually a new project? What exactly will it improve? Can it wait? Have you slept on it? How much more work will it produce, and for whom? How much more time will it require? What could instead be removed, revised, or changed? (see Lidwell, Holden, and Butler)    
 * **five hat racks**: info can be organized five ways (category or similarity, time, location, alphabet, and continuum or magnitude) (see Lidwell, Holden, and Butler)
 * **flexibility trade-off**: some argue that usability and performance decrease as flexibility of a design increases (see Lidwell, Holden, and Butler) 
@@ -105,6 +123,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **moveable book**: another term for a pop-up book or a book with moving (paper) parts  
 * **near futures**: thinking and designing in terms of possible tomorrows (as opposed to distant futures) (see Julian Bleecker)
 * **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway)
+* **nudging**: modifying behaviour without restricting options (smart defaults, clear feedback, aligned incentives, structured choices, visible goals) (see Lidwell, Holden, and Butler)
 * **parallel prototyping**: simultaneously exploring multiple design ideas before selecting one approach; shifts focus from designer to designing (see Martin and Hanington) 
 * **participatory research and design**: cyclical, collaborative processes that intend to change members of the inquiry; involves numerous groups (not just designers) in the design process (see Martin and Hanington)
 * **playtesting**: "playtesting is all about getting people to come play your game to see if it engenders the experience for which it was designed;" stages are exploring a design space, refining a design, and negotiating with all involved (see Hammer et al.)
@@ -231,6 +250,8 @@ Integrating ludic algorithms and critical play into game design:
 
 Some games mentioned in the 508 materials (not recommendations, just a list)
 
+* *Azul* (abstract, renaissance, tile placement, set collection, pattern building, 2-4 players)
+* *Betrayal at House on the Hill* (horror, cooperative modular board, partnerships, 3-6 players)
 * *Capital Lux* (science fiction, card drafting, hand management, bluffing, 2-4 players)
 * *Carcassonne* (medieval, area influence, tile placement, 2-5 players)
 * *Castles of Burgundy* (medieval, dice rolling, tile placement, set collection, 2-4 players)
@@ -238,8 +259,10 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Codenames* (party, memory, partnership, 2-8 players)
 * *Codex Conquest* (by Amy Hildreth Chen; a card game about book history and curatorial practices)
 * *Concordia* (ancient, card drafting, deck building, point-to-point movement, 2-5 players)
+* *Cosmic Encounter* (science fiction, bidding, take-that, simultaneous action selection, variable player powers, 3-5 players)
 * *Coup* (party, deduction, take-that, elimination, 2-6 players)
 * *Dominion* (medieval, card drafting, deck building, hand management, 2-4 players)
+* *Flamme Rouge* (racing, hand management, modular board, simultaneous action selection, 2-4 players)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
 * *Galaxy Trucker* (science fiction, partnership, tile placement, 2-4 players)
 * *Gloomhaven* (fantasy, campaign, cooperative, modular board, hand management, role-playing, variable player powers, 1-4 players)
@@ -249,14 +272,21 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Lost Cities* (exploration, hand management, set collection, 2 players)
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
 * *Machi Koro* (city building, card drafting, 2-4 players)
+* *Magic Maze* (real-time, cooperative, grid movement, variable player powers, 1-8 players)
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
+* *Mint Works* (economic, worker placement, card drafting, 1-4 players)
 * *Monikers* (party, drafting, role-playing, 4-20 players)
 * *One Night Ultimate Werewolf* (party, role-playing, variable player powers, voting, 3-10 players)
+* *Onirim* (fantasy, cooperative, hand management, set collection, 1 or 2 players)
 * *Pandemic* (medical, cooperative, point-to-point movement, hand management, variable player powers, 2-4 players)
 * *Patchwork* (abstract, time track, tile placement, 2 players)
 * *Power Grid* (economic, bidding, network building, 2-6 players)
+* *Race for the Galaxy* (science fiction, hand management, simultaneous action selection, variable player powers, 2-4 players)
 * *The Resistance* (bluffing, spies, simultaneous action selection, partnerships, 5-10 players)
+* *Sagrada* (dice, set collection, pattern building, 1-4 players)
 * *Secrets* (party, spies, card drafting, take-that, 4-8 players)
 * *Skull* (party, bidding, bluffing, elimination, 3-6 players)
 * *Sushi Go* (drafting, hand management, set collection, simultaneous action selection, 2-5 players)
+* *The Tessera Inventors* (card game, history)
 * *Unlock!* (theme, puzzle, storytelling, cooperative, 2-6 players)
+* *Witness* (comics, mystery, cooperative, storytelling, 4 players)
