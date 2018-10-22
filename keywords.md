@@ -244,7 +244,31 @@ Integrating ludic algorithms and critical play into game design:
 * How could the game be more than the "output" of a designer? How could it be a space or situation for interpretation? How could it and its context of play afford different play styles? How could it be, e.g., reskinned, unplayed, or rewritten? 
 * How could the game's procedures facilitate interpretation (as opposed to producing meaning mechanically or mathematically)? How could those procedures support values, and which values? 
 * How could the game afford alternatives to popular play spaces? How might play (and not just design) change the norms of games and gaming cultures? Of dominant themes and mechanics? 
-* How could the game prompt a "phase change"? How would that phase change be defined, by whom, and with what social, cultural, political, and/or aesthetic goals in mind?  
+* How could the game prompt a "phase change"? How would that phase change be defined, by whom, and with what social, cultural, political, and/or aesthetic goals in mind? 
+
+Some midterm tips for prototyping:  
+
+* **Consider the Order of Operations**: the "serial position effect" states that things presented at the beginning and end of a sequence are more memorable; this effect shapes game design (how content is arranged) as well as player action (what they do or select).
+* **Determine Cause or Effect**: determine whether you want to lead people to why (design for cause) or prompt them to experience what (design for effect); or perhaps you have another approach in mind. 
+* **Develop Your Theme over Time**: separate your theme’s information into layers and present only what's necessary for that stage in the game; progressive disclosure during a play session (or campaign) reduces a player's cognitive and kinematic performance load; reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task.
+* **Don’t Neglect Your Text**: as you proceed with making a game, don’t forget your -ism and primary text; keep them both in conversation with your prototype as it changes from week to week; use your -ism and text to ground your experiments in the particulars of history and to avoid scope or feature creep.   
+* **Experiment with Variation**: modify your prototype and study the modifications during playtesting; cut a rule, add a rule, change the player order, cut a hat rack, add a hat rack, cut the timer, add a timer, offer three end conditions, offer only one end condition, increase the number of players, decrease the number of players, make it symmetrical, or make it asymmetrical.  
+* **Focus on the Critical 20%**: focus your time and prototyping on the critical 20 percent of your game; 80 percent of play involves 20 percent of a game's features.
+* **Give Your Playtesters a Problem**: before people playtest your game, tell them about a problem you’re facing and request feedback to address it; write down the problem for them, if possible. 
+* **Isolate Aspects of Your State**: instead of prototyping everything at once, isolate specific aspects of your game state and ask people to playtest them for you.  
+* **Know Your Mechanics**: identify which mechanics you’re using and how you’re using or tweaking them; communicate the mechanics to playtesters, if need be.  
+* **Let People Audit It**: provide playtesters with an inventory of your game’s content and then ask them to audit it by performing a Kano analysis: identify which features are required (baseline or quality features), which are desired (important one-dimensional features), which are surprising (satisfying or attractive features), which are neutral (features producing indifference), and which are anti-features (to be removed).  
+* **Mind the Important Features**: keep important components of your game close and large; Fitts’ Law states that the time required to touch an object is a function of the object's size and distance.
+* **Nudge by Design**: guide or modify player behaviours without restricting options; use smart defaults, clear feedback, aligned incentives, structured choices, and visible goals.
+* **Prototype in Parallel**: create multiple prototypes that could serve the same ends or purposes; providing people with a few options may increase the quality of playtesting and feedback. 
+* **Provide Good Entry Points**: good entry points into a game or play session feature minimal barriers, points of prospect, and progressive lures; entry points should survey available options and provide visible navigation options as well as orientation cues. 
+* **Stabilize Some Parts to Experiment with Others**: if you want to test a specific aspect of your prototype, try stabilizing everything else to encourage the isolated volatility of that one aspect; stable environments encourage refinement while volatile environments encourage experimentation; also, Hick’s Law states that the time it takes to make a decision increases with the number of options. 
+* **Think Aloud**: while playtesting, ask people to verbalize what they are doing and thinking as they complete a task; you can do the same when introducing your game or aspects of it to them. 
+* **Try Extending a Task**: according to the Zeigarnik Effect, interrupted or incomplete tasks are better remembered than complete tasks; legacy games and campaigns rely on this to-be-continued dimension of storytelling and play by prompting additional play sessions or scenarios; puzzle and abstract games extend interest by providing no definitive ending or solution.  
+* **Watch those Lines**: things connected with lines or boxes are perceived to be more related than things not connected by lines or boxes. 
+* **Write Your Prototype a Letter**: after a few weeks of prototyping, personify your game and write it a love letter and a breakup letter; doing so may help you to think through the state of your game but also how people (you included) may personify it.  
+
+For the source material for these tips, see [Design Speak](#design-speak) above.  
 
 ## List of Games 
 
