@@ -1,6 +1,6 @@
 # Keywords and Notes for 508 
 
-Some rough notes for quick reference. Not for citation or quotation. Current draft covers first two weeks of seminar (through September 18th). These will be updated regularly throughout the term (until late November or early December).  
+Some rough notes for quick reference. Not for citation or quotation. Current draft covers first seven weeks of seminar (through October 23rd). These will be updated regularly throughout the term (until late November or early December).  
 
 * [Paper Computing](#paper-computing)
 * [Game Speak](#game-speak)
