@@ -268,7 +268,37 @@ Some midterm tips for prototyping:
 * **Watch those Lines**: things connected with lines or boxes are perceived to be more related than things not connected by lines or boxes. 
 * **Write Your Prototype a Letter**: after a few weeks of prototyping, personify your game and write it a love letter and a breakup letter; doing so may help you to think through the state of your game but also how people (you included) may personify it.  
 
-For the source material for these tips, see [Design Speak](#design-speak) above.  
+For the source material for these tips, see [Design Speak](#design-speak) above. 
+
+Some resources for prototyping: 
+
+* [Use Standard Card Templates](https://www.dropbox.com/sh/dhsk7x98vv4i03r/AAAI1UIod-gdXjiQuLxGtfjNa?dl=0) (edit in AI or PS)
+* [Use Shape Card Templates](https://www.dropbox.com/sh/tczlx6hi37z3j4j/AAALKMpl8VOOkngs-XI9SLX_a?dl=0) (edit in PS)
+* [Use Board Templates](https://www.printplaygames.com/prototypes/formatting-guidelines/boards-formatting-templates/) (edit in PS)
+* [Use Box Templates](https://www.dropbox.com/sh/ku5hfqggjv2dt4m/AABDLsnHvblcvQhXnPZjCzWEa?dl=0) (edit in AI or PS)
+* [Use Tuckbox Templates](https://www.dropbox.com/sh/mena5s0neqjf3sg/AABcahK4d1MDWKp8yc1Aguy-a?dl=0) (edit in AI or PS)
+* [Make Cards with Powerpoint](https://www.instructables.com/id/Playing-Cards-Personalized-and-Pocket-Sized/)
+* [Make Cards with Google Docs and Sheets](https://medium.com/@efyoungblood/prototyping-tabletop-games-874c46402966)
+* [Make Cards in Ruby](http://squib.rocks/)
+* [Make Cards with . . . CardMaker](https://github.com/nhmkdev/cardmaker)
+* [Make Cards with Excel, HTML, and CSS](https://github.com/vaemendis/hccd/)
+* [Download Game Design Assets](https://www.thegamecrafter.com/design-assets): templates for cards, tokens, and boards
+* [Download Art and Digital Images](https://library.carleton.ca/find/images/digital-image-databases-archives-libraries-and-museums), plus open/public domain materials via [Internet Archive](https://archive.org/details/image), [The British Library](https://www.flickr.com/photos/britishlibrary), the [New York Public Library](https://www.nypl.org/research/collections/digital-collections/public-domain), and [The Met](https://www.metmuseum.org/art/collection?tabname=artist-maker-culture)
+* [Download Icons](https://thenounproject.com/)
+* [Download Boardgame Icons](http://afractalthought.com/fractal-symbols/board-game-library/)
+* [Download Fonts](https://fonts.google.com/)
+* [Generate Hexagonal Graph Paper](https://incompetech.com/graphpaper/hexagonal/) (in PDF)
+* [Generate Boardgame Ideas](http://www.boardgamizer.com/)
+* [Calculate Dice Probability](https://anydice.com/)
+* [Test Games Online](https://tabletopia.com/)
+* [Simulate Tabletop Games and Physics](https://store.steampowered.com/app/286160/Tabletop_Simulator/)
+* [Buy Game Components Online](https://www.thegamecrafter.com/parts) (cards, boards, tiles, miniatures, pawns, etc.)
+* [Buy Even More Game Components Online](https://www.printplaygames.com/) (cards, boards, boxes, etc.)
+* Rabbit Hole: [r/tabletopgamedesign](https://www.reddit.com/r/tabletopgamedesign/)
+* Video: ["How to Make Cards (Three Ways)"](https://www.youtube.com/watch?v=l0t6PBypahI&feature=youtu.be, by James Ernest 
+* Video: ["How to Build Tile Cards"](https://www.youtube.com/watch?v=pAE2KMlLLf8&feature=youtu.be), by James Ernest 
+* Videos: [*Card at Work*](https://www.youtube.com/playlist?list=PLqRXiQslycmZhvt_4vWyn07OHpX4y_J_f), by Daniel Solis 
+* Videos: [*Dining Table Print and Play* How-to Videos](https://www.youtube.com/user/jakestaines/videos), by Jake Staines 
 
 ## List of Games 
 
