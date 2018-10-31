@@ -26,12 +26,16 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 Many of these working definitions are drawn from [Board Game Geek](https://boardgamegeek.com/). 
 
 * **abstracts**: a game that does not rely significantly (if at all) on chance or a theme; very little (if any) information is hidden, and dice are almost never used 
+* **accumulation**: a game where the aim is collect and/or keep components or points, often with the intent to prevent or inhibit other players from doing the same
+* **actual play**: documentation and circulation of play sessions through podcasts, video, or the like 
 * **alignment**: a categorization of the moral and ethical perspective of player characters, non-player characters, and societies/groups in the game
 * **algorithm**: a procedure or formula for conducting a specific action; performed by people and materials in tabletop games; usually black-boxed in videogames
 * **ameritrash**: theme-forward games featuring player-to-player conflict; often driven by chance and character development (compare with eurogame)        
 * **analysis paralysis**: taking a long time to make a decision during your turn, or frequently changing your mind either during a turn or throughout the game   
 * **area control** (or area influence): a mechanic that awards players for controlling or influencing a majority of units (or territories, or tiles) in a game 
+* **asymmetry**: a game where players are afforded with different actions or abilities; often these differences are expressed through "factions" or groups in the theme  
 * **auction**: a mechanic that requires players to place a bid (usually with money) on items in an auction of goods in order to enhance their position in the game; these goods afford future actions or improve a position (see also bidding)
+* **balance**: describes whether the challenge is appropriate for the audience, whether the game is fair for all players involved, whether components are weighted equally, and/or whether strategies toward end conditions are equal; actual balance may differ from perceived balance (see Ian Schreiber) 
 * **bidding**: see auction 
 * **bluffing**: an attempt to deceive someone into believing that one can or will do something in a game 
 * **campaign**: the game and/or characters change over time, such that the results of one game may influence future plays; they thus involve multiple play sessions      
@@ -39,13 +43,15 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **collection** (or set collection): a mechanic that encourages players to collect sets of items; common in party games and hand management    
 * **collusion**: when players form secret agreements during a game; some games, including secret identity games, encourage collusion    
 * **components**: tactile parts or bits of a game
-* **cooperation**: games where players win or lose together through mutual reliance, usually without a referee or moderator; also refrains from pitting players against each other (compare with negotiation) 
+* **cooperation** (or co-op): games where players win or lose together through mutual reliance, usually without a referee or moderator; also refrains from pitting players against each other (compare with negotiation) 
 * **deck or pool building**: players have a personal pool/collection of cards/tokens that provide different actions and/or resources; a subset of those cards/tokens is randomly drawn each turn; players manage the contents of their pool/collection by adding and removing cards/tokens over the course of the gameplay, often through actions provided by the cards/tokens themselves; over time, players build decks/pools that are more and more specialized and effective towards some purpose.     
-* **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players    
+* **deduction**: forming conclusions based on available premises; includes social deduction where players may guess the identity of other players
+* **default settings**: the conditions, options, and mechanics assumed by the game and its manual; may be adjusted through house roles, mods, or the like     
 * **dexterity**: games that involve physical dexterity to perform actions or tasks 
 * **drafting**: players pick cards, dice, or tokens from a limited subset, such as a common pool, to eithr gain some advantage (immediate or longterm) or assemble hands of cards or collections of dice/tokens used to meet objectives within the game  
 * **dynamics**: embodied patterns of play
 * **edition**: a particular form or version of a game; used to develop a game over time but also to apply special interests or themes to it 
+* **elimination**: when a player can be eliminated from the game and play continues without them
 * **end/win conditions**: the conditions that result in the conclusion of a game; mechanisms include empty hands, group or individual achievements, set collections, area control, arrival at a destination, the expiry of time, the end of a story, player elimination, a score, and the conclusion of a scenario or level 
 * **escape**: a puzzle-based collaborative mechanic in games; also manifests as a theme via the escape room     
 * **eurogame**: a strategy-driven game with indirect player interaction (or conflict), abstract physical components, balance, and little (if any) chance or randomness (compare with ameritrash)        
@@ -54,17 +60,20 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **game space**: the area of the game
 * **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
 * **game view**: the info or variables a given player can see (compare with game state) (see Romero and Schreiber) 
+* **hidden or secret identity**: a game where players are given a secret identity and asked to deduce each other's identities; players may not always be aware of their own identities; often creates an "us vs. them" dynamic  
 * **induction**: forming conclusions by inferring the general from the specific; often used to drive experimentation in games    
 * **incentive**: what motivates players to continue playing a game or to play it more than once     
 * **investment**: used by players to describe the replay value of a game; may also imply a game mechanic involving the investment of capital        
 * **legacy**: games that change over time based on the outcome of each game played and the choices made by players    
-* **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically    
+* **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically  
+* **magic circle**: "the idea that a boundary exists between a game and the world outside the game;" this boundary fosters the production of new meaning; does not actually exist but may be an effective design concept (see Eric Zimmerman)  
 * **mechanic or mechanism**: an action or function that can be performed in a game (compare with rule)
 * **melding**: a meld is a set of matching cards, typically three or more, that earn players points and/or allow them to deplete their hand
 * **metagaming**: analyzing a game aloud as you play it; used for planning but, in some cases, also to shape play and dynamics; depending on the game and community, it may be encouraged or frowned upon (see Stewart Woods) (compare with kibitzing)    
 * **mixed motive**: games where the interests or incentives of players are neither strictly coincident nor strictly opposed    
 * **multi-use cards**: the design of cards that serve multiple purposes in a single game (from money and abilities to resources and effects)
 * **negotiation**: a mechanic where players are encouraged to make deals, alliances, and bribes; may also involve betrayal (compare with cooperation)
+* **quarterbacking**: when one player tells other players what to do, often because they are (or think they are) more familiar with the game; common in co-op games 
 * **pacing**: the speed or intensity of game play or progression through a game  
 * **pickup and deliver**: requires players to pick up an item at one location on the playing board and bring it to another location on the playing board; initial placement of the item can be either predetermined or random; there is usually a rule or another mechanic that determines where the item needs to go
 * **points salad**: a negative term used to describe games where all or many actions yield points 
@@ -75,7 +84,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **risk**: the perceived payoff or penalty for an action; it entails uncertainty, reward, and randomness   
 * **route or network building**: a mechanic in games involving networks where players are encouraged to build connections or long chains of pieces; common in train and grid games   
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
-* **shedding**: when the player's objective is to be the first person to empty their hand of all cards 
+* **shedding**: when the player's objective is to be the first person to empty their hand of all cards (compare with accumulation)
 * **signaling**: a game with two players (sender and receiver); the sender has one of several types (private to the sender and unknown to the receiver) that determines their function and affects the messages they send; the receiver has only one type and thus their function is known; signaling games are Bayesian games, where players have incomplete information about the other players (e.g., info about their available strategies or payoffs), but also have beliefs with known probability distributions
 * **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
@@ -83,13 +92,16 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **trading**: players exchange game items between each other
 * **trashing**: putting cards (often strategically) into the discard pile
 * **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable 
+* **turtling**: a strategy emphasizing defense, usually to avoid risk 
 * **twitching**: a mechanic that requires fast decision-making    
-* **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation    
+* **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation  
+* **variable player order**: when the sequence of player turns is not consistent from one round of play to the next; often affects player strategies and dynamics    
 * **worker placement** (or action drafting): requires a player to select specific actions from a set available to all players; actions are commonly selected by the placement of game pieces or tokens on selected action spaces; each player usually has a limited number of pieces with which to participate in the draft; some games achieve the same effect in reverse: the turn begins with action spaces filled by markers, which are claimed by players for some cost 
 * **zero-sum game**: a player's gain or loss of action (or utility) is exactly balanced by the other players' gain or loss of action (or utility); the total gains less the total losses equals zero      
 
 ## Design Speak
 
+* **80/20 rule**: focus resources on the critical 20 percent; 80 percent of a product's usage involves 20 percent of its features (see Vilfredo Pareto; Lidwell, Holden, and Butler) 
 * **action writing**: either prompts specific behaviours/responses (against standardized or normalized reading practices) or contains charged design elements (see Steven Marcus)
 * **A-D-M**: a player-centric approach to game design; aesthetics (A) are observed in dynamics (D) that are linked to mechanics (M); aesthetics may include sensation, fantasy, narrative, challenge, social interaction, discovery, expression, and ritual (see Hunicke, LeBlanc, and Zubek)
 * **affordances**: what environments or objects offer individual animals; always relational and thus never fixed; exists regardless of whether it is perceived or recognized (see J.J. Gibson) 
@@ -248,6 +260,8 @@ Integrating ludic algorithms and critical play into game design:
 
 Some midterm tips for prototyping:  
 
+* **Avoid Separating Rules from "Fluff"**: players tend to divide rules and mechanics from backstory, context, and other elements of the theme; muddy or complicate that division; design to integrate the former (rules) with the latter (theme) (thanks, Avery!).
+* **Balance Directions with Trust**: use your prototype to build relationships with players without explicitly telling them what to do; smart components can help people to intuit how to play your game (Thanks, Avery!).
 * **Consider the Order of Operations**: the "serial position effect" states that things presented at the beginning and end of a sequence are more memorable; this effect shapes game design (how content is arranged) as well as player action (what they do or select).
 * **Determine Cause or Effect**: determine whether you want to lead people to why (design for cause) or prompt them to experience what (design for effect); or perhaps you have another approach in mind. 
 * **Develop Your Theme over Time**: separate your theme’s information into layers and present only what's necessary for that stage in the game; progressive disclosure during a play session (or campaign) reduces a player's cognitive and kinematic performance load; reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task.
@@ -260,6 +274,7 @@ Some midterm tips for prototyping:
 * **Let People Audit It**: provide playtesters with an inventory of your game’s content and then ask them to audit it by performing a Kano analysis: identify which features are required (baseline or quality features), which are desired (important one-dimensional features), which are surprising (satisfying or attractive features), which are neutral (features producing indifference), and which are anti-features (to be removed).  
 * **Mind the Important Features**: keep important components of your game close and large; Fitts’ Law states that the time required to touch an object is a function of the object's size and distance.
 * **Nudge by Design**: guide or modify player behaviours without restricting options; use smart defaults, clear feedback, aligned incentives, structured choices, and visible goals.
+* **Play before It's Ready**: early on, don't become preoccupied with details; play prototypes made with index cards, pens, and paper (thanks, Avery!).
 * **Prototype in Parallel**: create multiple prototypes that could serve the same ends or purposes; providing people with a few options may increase the quality of playtesting and feedback. 
 * **Provide Good Entry Points**: good entry points into a game or play session feature minimal barriers, points of prospect, and progressive lures; entry points should survey available options and provide visible navigation options as well as orientation cues. 
 * **Stabilize Some Parts to Experiment with Others**: if you want to test a specific aspect of your prototype, try stabilizing everything else to encourage the isolated volatility of that one aspect; stable environments encourage refinement while volatile environments encourage experimentation; also, Hick’s Law states that the time it takes to make a decision increases with the number of options. 
