@@ -95,7 +95,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **turtling**: a strategy emphasizing defense, usually to avoid risk 
 * **twitching**: a mechanic that requires fast decision-making    
 * **uncertainty principle**: Werner Heisenberg's principle that it's impossible to measure something without disturbing it; confidence in the exactitude of frequency information increases with duration of observation  
-* **variable player order**: when the sequence of player turns is not consistent from one round of play to the next; often affects player strategies and dynamics    
+* **variable player order**: when the sequence of player turns is inconsistent from one round of play to the next; often affects player strategies and dynamics    
 * **worker placement** (or action drafting): requires a player to select specific actions from a set available to all players; actions are commonly selected by the placement of game pieces or tokens on selected action spaces; each player usually has a limited number of pieces with which to participate in the draft; some games achieve the same effect in reverse: the turn begins with action spaces filled by markers, which are claimed by players for some cost 
 * **zero-sum game**: a player's gain or loss of action (or utility) is exactly balanced by the other players' gain or loss of action (or utility); the total gains less the total losses equals zero      
 
