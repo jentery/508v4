@@ -39,7 +39,9 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **bidding**: see auction 
 * **bluffing**: an attempt to deceive someone into believing that one can or will do something in a game 
 * **campaign**: the game and/or characters change over time, such that the results of one game may influence future plays; they thus involve multiple play sessions      
-* **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play    
+* **character development**: a feature that affords character growth or change during a game; common in role-playing games (RPGs) and often associated with role-play 
+* **chasing**: a mechanic involving the pursuit of other characters or players 
+* **chits**: a type of game counter used to track progress, randomize a game, afford a "fog of war," or suggest terrain attributes    
 * **collection** (or set collection): a mechanic that encourages players to collect sets of items; common in party games and hand management    
 * **collusion**: when players form secret agreements during a game; some games, including secret identity games, encourage collusion    
 * **components**: tactile parts or bits of a game
@@ -56,6 +58,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **escape**: a puzzle-based collaborative mechanic in games; also manifests as a theme via the escape room     
 * **eurogame**: a strategy-driven game with indirect player interaction (or conflict), abstract physical components, balance, and little (if any) chance or randomness (compare with ameritrash)        
 * **family**: the genre of the game
+* **feature list**: a list of a game's features; may include components as well as mechanics 
 * **game**: a situation with guidelines and procedures (see Flanagan)
 * **game space**: the area of the game
 * **game state**: all the information or variables at play in a given gaming scenario; may include everything from number of players and components to possible actions and conflicts to goals and win conditions; essentially the game's "metagame" (see Romero and Schreiber)
@@ -89,6 +92,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
 * **theme**: the subject matter (story, setting, characters, and even design) of the game 
 * **tiles**: components used as playing pieces, board pieces, or geometries in games (compare (*Dominoes* with *Carcassonne*) 
+* **time track**: component used to represent or measure progress in a game 
 * **trading**: players exchange game items between each other
 * **trashing**: putting cards (often strategically) into the discard pile
 * **turns**: a moment when a player may act; discrete in turn-based games; simultaneous in real-time games; also a moment when analysis paralysis is most visible or palpable 
@@ -110,7 +114,9 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **artifact analysis**: study a given text's *materials* (composition, components, durability, wear, disposibility), *aesthetics* (form, color, texture, references, emotional significance), *affordances* (operational uses, functions, complexity), *context* (where it's stored and carried, whether part of a larger whole, time and space, ownership, public, private), and *potential* for misuse and repurposing (see Martin and Hanington)
 * **artist's book**: interrogates the material and conceptual form of the book; not reducible to the vision of an editor; refrains from standardized or mechanical repetition; imaginative use of methods and means of production, including but not limited to fine printing; may involve indie printing or publishing; expresses independent or activist thought; implies an informed viewer; not a democratic multiple (see Johanna Drucker)
 * **blanks**: they are printed and used, not authored or read; they connect the intimacy of material objects and collections with the abstractions of bureaucracy, forms, and social structures; also prompt input from readers (see Lisa Gitelman)
+* **common fate**: things that move in the same direction are assumed to be related (Gestalt principle); moving elements are figures and stationary elements are ground (see Lidwell, Holden, and Butler)
 * **concept doc**: an early step in design; it explains the proposed game, identifies its category and intended audience (including number of players, age minimum, and anticipated duration of play), describes the theme and key mechanics (including goals, chance / randomness, and player choices), lists core features, and may engage related issues of history, aesthetics, and politics  
+* **content inventory and audit**: a content inventory tells you what your content is; an audit recommends what it should be
 * **context of use**: a way to consider actual situations and practices of use (as opposed to ideal forms or intended uses) (see Andrea Botero)
 * **design charrette**: participants rapidly generate ideas and rotate through small groups to bring ideas forward (see Martin and Hanington)
 * **design as inquiry**: treating design as a mode or line of research, as opposed to rendering it to be a quality of an object or a property inherent to an object (see Daniela Rosner)
@@ -120,13 +126,17 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
 * **Elito method**: observation (what did you see, read, or hear?), judgment (what is your opinion about it?), value (what values were at work?), concept/sketch (what can a team/person do to address the issues?), and key metaphor (what is the hook or tagline?) (see Martin and Hanington)
 * **entry points**: good entry points feature minimal barriers, points of prospect, and progressive lures (entry points should survey available options and provide visible navigation options as well as orientation cues) (see Lidwell, Holden, and Butler)
-* **feature or scope creep**: when projects continue to expand by adding new features or expanding their scope of inquiry/engagement; adding features adds complexity, which may be time-consuming; some people create milestones to "freeze" a project; questions to help prevent creep include, Could the new idea or component stand on its own? Is it actually a new project? What exactly will it improve? Can it wait? Have you slept on it? How much more work will it produce, and for whom? How much more time will it require? What could instead be removed, revised, or changed? (see Lidwell, Holden, and Butler)    
+* **feature or scope creep**: when projects continue to expand by adding new features or expanding their scope of inquiry/engagement; adding features adds complexity, which may be time-consuming; some people create milestones to "freeze" a project; questions to help prevent creep include, Could the new idea or component stand on its own? Is it actually a new project? What exactly will it improve? Can it wait? Have you slept on it? How much more work will it produce, and for whom? How much more time will it require? What could instead be removed, revised, or changed? (see Lidwell, Holden, and Butler) 
+* **Fitt's Law**: keep important objects or controls close and large (time required to touch an object is a function of the object's size and distance) (see  Lidwell, Holden, and Butler)   
 * **five hat racks**: info can be organized five ways (category or similarity, time, location, alphabet, and continuum or magnitude) (see Lidwell, Holden, and Butler)
 * **flexibility trade-off**: some argue that usability and performance decrease as flexibility of a design increases (see Lidwell, Holden, and Butler) 
+* **Hick's Law**: the time it takes to make a decision increases with the number of options (see Lidwell, Holden, and Butler) 
+* **icons**: the use of pictorial images to improve recognition and recall; may increase language independence and reduce performance load; examples include resemblance, exemplar, and symbolic icons (see Lidwell, Holden, and Butler)
 * **inspiration (for design)**: inspiration assumes various forms; it’s not always an homage; it may be partial, or it may be a reaction to a past movement or principle; it may be just an impression, or it may be quite literal (imitation or mimicry)
 * **interface**: a space or modality of engagement between two or more systems or entities; a common example is the graphical user interface (GUI) of computers; interfaces help turn this (e.g., input) into that (e.g., output); they are designed even if they are intangible, unstable, and difficult (impossible?) to isolate; they are often depicted as either portals (transparent windows that transport you) or edges (boundary-makers that mediate you) (see Lori Emerson and Alexander Galloway)   
 * **KISS**: Keep It Simple Stupid; minimal elements with minimal interaction between them; simple designs are easier to build and maintain (see Kelly Johnson)
 * **language independence**: the degree to which a game works across alphabetic languages or without the need for alphabetic languages; language independent games rely heavily on icons to prompt and facilitate action
+* **legibility**: the use of clear typefaces (with or without serifs) and dark text on light backgrounds (or vice versa); avoiding not only patterned backgrounds but also line lengths of much more than 10-12 words or 35-55 characters as well as monospaced fonts (see Lidwell, Holden, and Butler)
 * **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A) (see Hunicke, LeBlanc, and Zubek)
 * **machine-woven book**: a book consisting of thread woven by a Jacquard machine using punched cards; see https://www.uvic.ca/library/locations/home/spcoll/collections/medieval/ms-fr-2.php
 * **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement; a popular term during the 19th c. 
@@ -141,15 +151,19 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **playtesting**: "playtesting is all about getting people to come play your game to see if it engenders the experience for which it was designed;" stages are exploring a design space, refining a design, and negotiating with all involved (see Hammer et al.)
 * **prediction**: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
 * **procedural representation or narrative design**: "close correspondence between [a] game’s formal devices and abstracted elements of [a] historical [or fictitious] situation" (see Kirschenbaum; see also  Salen Tekinbas, Zimmerman, and Ryan)
+* **progressive disclosure**: separating information into layers and presenting only what's necessary or relevant; descreases/reduces performance load (see Lidwell, Holden, and Butler)
 * **protocol**: a principle and procedure of organization; in technology circles, it may be universally adopted (e.g., http) to standardize information flow and communication (see Galloway)  
 * **restoration**: "a means to re-establish [a cultural object] in a completed state, which may in fact never have actually existed at any given time;" involves speculation in the process (see Eugène Emmanuel Viollet-le-Duc via Kari Kraus)
 * **scenario prototyping**: active participation in design through subjective engagement with a prototype; a narrative exploring past or future uses of a design/product from a user's point of view (see Martin and Hanington)
+* **serial position effect**: things presented at the beginning and end of a sequence are more memorable (see  Lidwell, Holden, and Butler)
 * **simulation exercises**: deep approximations of human or environmental conditions, with an emphasis on empathy and functional interaction (see Martin and Hanington)
 * **speculative design**: favours inquiry, experimentation, and expression over usability and marketability; calls attention to the possibilities and consequences of technological development and implementation; treats futures as media for imaginative thought; asks what is possible, plausible, probable, and preferable (see Carl DiSalvo and Jonathan Lukens; Anthony Dunne and Fiona Raby; and Stuart Candy)
 * **stability (refining)**: stable design environments favour refinement (see Lidwell, Holden, and Butler)
 * **stickiness (SUCCES)**: one explanation for why things go viral; Simple, Unexpected, Concrete, Credible, Emotional, Stories (see Lidwell, Holden, and Butler) 
 * **storyboarding**: visual narrative that generates empathy and communicates the context for proposed design (usually only three to six panels) (see Martin and Hanington)
+* **structural forms**: masses (materials that are piled or stacked to create forms), frames (struts joined to form a skeleton), and shells (wrap around a volume) (see Lidwell, Holden, and Butler)
 * **swimlanes**: four in total, presented in parallel; storyboard lane (captures events in a user story using comics, photographs, images), user experience lane (details user experience with a flowchart), business process lane (articulate the business logic of the experience), and tools and systems lane (back-end technologies that support actions) (see Martin and Hanington) 
+* **uniform connectedness**: things connected with lines or boxes are perceived to more related than things not connected (see Lidwell, Holden, and Butler)
 * **volatility (experimentation)**: volatile environments tend to favour experimentation (see Lidwell, Holden, and Butler)
 * **wireframing**: a technique for drawing the structure, layout, hierarchy, format, and functionality of an interface; used to express concepts in visual form; usually done early in a project; specific content (particular images or certain words) is saved for later, and placeholder content (such as lorem ipsum) is used instead    
 * **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning (see Martin and Hanington)
