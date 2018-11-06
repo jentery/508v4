@@ -1,6 +1,6 @@
 # Keywords and Notes for 508 
 
-Some rough notes for quick reference. Not for citation or quotation. Current draft covers first seven weeks of seminar (through October 23rd). These will be updated regularly throughout the term (until late November or early December).  
+Some rough notes for quick reference. Not for citation or quotation. Current draft covers first nine weeks of seminar (through November 6th). These will be updated regularly throughout the term (until late November or early December).  
 
 * [Paper Computing](#paper-computing)
 * [Game Speak](#game-speak)
@@ -9,6 +9,7 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 * [Tech Speak](#tech-speak)
 * [Prototyping](#prototyping)
 * [List of Games](#list-of-games)
+* [List of Readings](#list-of-readings)
 
 ## Paper Computing
 
@@ -335,9 +336,11 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 
 * *Azul* (abstract, renaissance, tile placement, set collection, pattern building, 2-4 players)
 * *Betrayal at House on the Hill* (horror, cooperative modular board, partnerships, 3-6 players)
+* *Bluebeard's Bride* (tabletop role-playing game)
 * *Capital Lux* (science fiction, card drafting, hand management, bluffing, 2-4 players)
 * *Carcassonne* (medieval, area influence, tile placement, 2-5 players)
 * *Castles of Burgundy* (medieval, dice rolling, tile placement, set collection, 2-4 players)
+* *Catacombs* (fantasy, dexterity, role-playing, partnerships, 2-5 players)
 * *Citadels* (fantasy, city building, card drafting, variable player powers, 2-8 players)
 * *Codenames* (party, memory, partnership, 2-8 players)
 * *Codex Conquest* (by Amy Hildreth Chen; a card game about book history and curatorial practices)
@@ -347,8 +350,10 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Coup* (party, deduction, take-that, elimination, 2-6 players)
 * *Dialect* (3-5 players, language- and world-building)
 * *Dominion* (medieval, card drafting, deck building, hand management, 2-4 players)
+* *Ex Libris* (fantasy, card drafting, set collection, worker placement, 1-4 players)
 * *Flamme Rouge* (racing, hand management, modular board, simultaneous action selection, 2-4 players)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
+* *Fury of Dracula* (horror, secret unit development, variable player powers, point-to-point movement, 2-5 players)
 * *Galaxy Trucker* (science fiction, partnership, tile placement, 2-4 players)
 * *Gloomhaven* (fantasy, campaign, cooperative, modular board, hand management, role-playing, variable player powers, 1-4 players)
 * *Hanabi* (memory, cooperative, hand management, set collection, 2-5 players)
@@ -361,7 +366,10 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Magic Maze* (real-time, cooperative, grid movement, variable player powers, 1-8 players)
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
 * *Mint Works* (economic, worker placement, card drafting, 1-4 players)
+* *Modern Art* (economic, bidding, commodity speculation, hand management, 3-5 players)
 * *Monikers* (party, drafting, role-playing, 4-20 players)
+* *Mysterium* (mystery, cooperative, hand management, pattern recognition, 2-7 players)
+* *One-Deck Dungeon* (fantasy, cooperative, deck building, 1-2 players)
 * *One Night Ultimate Werewolf* (party, role-playing, variable player powers, voting, 3-10 players)
 * *Onirim* (fantasy, cooperative, hand management, set collection, 1 or 2 players)
 * *Pandemic* (medical, cooperative, point-to-point movement, hand management, variable player powers, 2-4 players)
@@ -369,6 +377,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Power Grid* (economic, bidding, network building, 2-6 players)
 * *Race for the Galaxy* (science fiction, hand management, simultaneous action selection, variable player powers, 2-4 players)
 * *The Resistance* (bluffing, spies, simultaneous action selection, partnerships, 5-10 players)
+* *Root* (animals, fantasy, area movement, variable player powers, 2-4 players)
 * *Sagrada* (dice, set collection, pattern building, 1-4 players)
 * *Secrets* (party, spies, card drafting, take-that, 4-8 players)
 * *Skull* (party, bidding, bluffing, elimination, 3-6 players)
@@ -376,3 +385,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *The Tessera Inventors* (card game, history)
 * *Unlock!* (theme, puzzle, storytelling, cooperative, 2-6 players)
 * *Witness* (comics, mystery, cooperative, storytelling, 4 players)
+
+## List of Readings 
+
+Coming soon, a list of readings from this term.  
