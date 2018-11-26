@@ -1,6 +1,8 @@
 # Keywords and Notes for 508 
 
-Some rough notes for quick reference. Not for citation or quotation. Current draft covers first nine weeks of seminar (through November 6th). These will be updated regularly throughout the term (until late November or early December).  
+Jentery Sayers | UVic English | ["Paper Computers"](https://jentery.github.io/508v4/)
+
+Below are some rough notes for reference throughout the term. They are not intended for citation or quotation. (Please pardon any typos.) I've organized them into eight sections:       
 
 * [Paper Computing](#paper-computing)
 * [Game Speak](#game-speak)
@@ -13,14 +15,17 @@ Some rough notes for quick reference. Not for citation or quotation. Current dra
 
 ## Paper Computing
 
-* May be a synonym for tabletop gaming (see Kirschenbaum)
-* Stresses paper as a medium for storage, processing, and use 
-* Highlights computing as embodied labour (neither abstract nor fully automated)
-* Further notes how this labour is often ignored in histories of science, technology, media, art, and literature
-* Underscores how paper (like screens) prompts input (see Gitelman on blanks)
-* Foregrounds design (graphic, interaction, experience) and how paper may structure or facilitate certain forms of perception (see Miles on the tabular view)
-* Likely involves quantification or procedural thinking 
-* Raises questions about how forms such as artists' books, manifestos, and zines (as experiments with paper, if you will) are entwined with gaming and tabletop gaming in particular 
+What is "paper computing?" It: 
+
+* May be a synonym for tabletop gaming (see Kirschenbaum);
+* Stresses paper as a medium for storage, processing, and use (including, but not limited to, histories of books and early computing);
+* Highlights computing as embodied labour (neither abstract nor fully automated) (see Miles, Buurma, Heffernan, and Terras);
+* Notes how such labour is ignored often in histories of science, technology, media, art, and literature;
+* Underscores how (like computer screens) paper prompts input and encourages not only reading but also use (see Gitelman); 
+* Foregrounds design (graphic, interaction, experience) and how paper may structure or facilitate certain forms of perception (see Miles on the tabular view, Drucker on artists' books, and Radway on zines);
+* Likely involves quantification or procedural thinking (see Kirschenbaum and Galloway); 
+* Frequently blends attention to mechanics and protocols with stories and narratives, while also investing in leisure or inefficiency (in times of 24/7 productivity); and, 
+* Raises questions about how established forms such as artists' books, manifestos, and zines (as experiments with paper, if you will) are entwined with gaming and, in particular, tabletop gaming. 
 
 ## Game Speak
 
@@ -54,6 +59,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **drafting**: players pick cards, dice, or tokens from a limited subset, such as a common pool, to eithr gain some advantage (immediate or longterm) or assemble hands of cards or collections of dice/tokens used to meet objectives within the game  
 * **dynamics**: embodied patterns of play
 * **edition**: a particular form or version of a game; used to develop a game over time but also to apply special interests or themes to it 
+* **efficiency**: a game that focuses on converting resources into points  
 * **elimination**: when a player can be eliminated from the game and play continues without them
 * **end/win conditions**: the conditions that result in the conclusion of a game; mechanisms include empty hands, group or individual achievements, set collections, area control, arrival at a destination, the expiry of time, the end of a story, player elimination, a score, and the conclusion of a scenario or level 
 * **escape**: a puzzle-based collaborative mechanic in games; also manifests as a theme via the escape room     
@@ -67,7 +73,9 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **hidden or secret identity**: a game where players are given a secret identity and asked to deduce each other's identities; players may not always be aware of their own identities; often creates an "us vs. them" dynamic  
 * **induction**: forming conclusions by inferring the general from the specific; often used to drive experimentation in games    
 * **incentive**: what motivates players to continue playing a game or to play it more than once     
-* **investment**: used by players to describe the replay value of a game; may also imply a game mechanic involving the investment of capital        
+* **investment**: used by players to describe the replay value of a game; may also imply a game mechanic involving the investment of capital 
+* **kibitzing**: offering unwanted or meddlesome advice to other players; also, to provide running commentary on a game as it's being played   
+* **kingmaking**: when a player who cannot win helps to determine who will; may be treated as a design problem    
 * **legacy**: games that change over time based on the outcome of each game played and the choices made by players    
 * **leveling** (or character advancement): a mechanic or feature that provides players and characters with a sense of progress, which is often expressed numerically  
 * **magic circle**: "the idea that a boundary exists between a game and the world outside the game;" this boundary fosters the production of new meaning; does not actually exist but may be an effective design concept (see Eric Zimmerman)  
@@ -88,6 +96,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **risk**: the perceived payoff or penalty for an action; it entails uncertainty, reward, and randomness   
 * **route or network building**: a mechanic in games involving networks where players are encouraged to build connections or long chains of pieces; common in train and grid games   
 * **rules**: guidelines or protocols for action; communicated in the manual or rulebook (compare with mechanic)
+* **rules lawyer**: a player who privileges the letter of the law over the spirit of play, often to gain advantage over other players; may also involve referencing obscure rules in a manual or handbook 
 * **shedding**: when the player's objective is to be the first person to empty their hand of all cards (compare with accumulation)
 * **signaling**: a game with two players (sender and receiver); the sender has one of several types (private to the sender and unknown to the receiver) that determines their function and affects the messages they send; the receiver has only one type and thus their function is known; signaling games are Bayesian games, where players have incomplete information about the other players (e.g., info about their available strategies or payoffs), but also have beliefs with known probability distributions
 * **tableau**: a family of games where players have a visible array of components that they build and manipulate; the array affects the quality, quantity, or variety of available actions    
@@ -115,6 +124,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **artifact analysis**: study a given text's *materials* (composition, components, durability, wear, disposibility), *aesthetics* (form, color, texture, references, emotional significance), *affordances* (operational uses, functions, complexity), *context* (where it's stored and carried, whether part of a larger whole, time and space, ownership, public, private), and *potential* for misuse and repurposing (see Martin and Hanington)
 * **artist's book**: interrogates the material and conceptual form of the book; not reducible to the vision of an editor; refrains from standardized or mechanical repetition; imaginative use of methods and means of production, including but not limited to fine printing; may involve indie printing or publishing; expresses independent or activist thought; implies an informed viewer; not a democratic multiple (see Johanna Drucker)
 * **blanks**: they are printed and used, not authored or read; they connect the intimacy of material objects and collections with the abstractions of bureaucracy, forms, and social structures; also prompt input from readers (see Lisa Gitelman)
+* **cognitive walkthrough**: evaluating whether the order of prompts in a system/interface reflects how people process tasks (see Martin and Hanington)
 * **common fate**: things that move in the same direction are assumed to be related (Gestalt principle); moving elements are figures and stationary elements are ground (see Lidwell, Holden, and Butler)
 * **concept doc**: an early step in design; it explains the proposed game, identifies its category and intended audience (including number of players, age minimum, and anticipated duration of play), describes the theme and key mechanics (including goals, chance / randomness, and player choices), lists core features, and may engage related issues of history, aesthetics, and politics  
 * **content inventory and audit**: a content inventory tells you what your content is; an audit recommends what it should be
@@ -124,31 +134,42 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **design fiction**: the use of prototype objects that tell stories about possible near futures (see Julian Bleecker)
 * **design for cause**: find the factors that caused an effect, and design those factors into your game to guide players and procedures; the  emphasis is on why something happened (see Pulsipher)
 * **design for effect**: identify an effect that represents history or an event, and then design toward experience of that effect; the emphasis is on what happened (see Pulsipher)
+* **desire lines**: traces of use or wear that indicate preferred methods of interaction; they suggest areas for improvement (given strong and unbiased user preferences) (see Lidwell, Holden, and Butler)   
 * **diegetic action**: action that contributes to the theme or narrative development of a game (see Alexander Galloway) 
+* **elaborative rehearsal**: memorization results from maintenance and elaborative rehearsal; maintenance rehearsal involves repetition whereas elaborative rehearsal involves engaging in different types of analysis; recall is most likely when it involves distinctiveness, relevance, and a degree of elaborative rehearsal (see Lidwell, Holden, and Butler)
 * **Elito method**: observation (what did you see, read, or hear?), judgment (what is your opinion about it?), value (what values were at work?), concept/sketch (what can a team/person do to address the issues?), and key metaphor (what is the hook or tagline?) (see Martin and Hanington)
 * **entry points**: good entry points feature minimal barriers, points of prospect, and progressive lures (entry points should survey available options and provide visible navigation options as well as orientation cues) (see Lidwell, Holden, and Butler)
 * **feature or scope creep**: when projects continue to expand by adding new features or expanding their scope of inquiry/engagement; adding features adds complexity, which may be time-consuming; some people create milestones to "freeze" a project; questions to help prevent creep include, Could the new idea or component stand on its own? Is it actually a new project? What exactly will it improve? Can it wait? Have you slept on it? How much more work will it produce, and for whom? How much more time will it require? What could instead be removed, revised, or changed? (see Lidwell, Holden, and Butler) 
-* **Fitt's Law**: keep important objects or controls close and large (time required to touch an object is a function of the object's size and distance) (see  Lidwell, Holden, and Butler)   
+* **Fitts' Law**: keep important objects or controls close and large (time required to touch an object is a function of the object's size and distance) (see  Lidwell, Holden, and Butler)   
 * **five hat racks**: info can be organized five ways (category or similarity, time, location, alphabet, and continuum or magnitude) (see Lidwell, Holden, and Butler)
 * **flexibility trade-off**: some argue that usability and performance decrease as flexibility of a design increases (see Lidwell, Holden, and Butler) 
+* **flow**: occurs when people are challenged at or near maximum skill level; in flow, people lose track of time and joy increases (see  Lidwell, Holden, and Butler)
+* **fly-on-the-wall**: unobstrusive observation of people or behaviours without direct participation or interference (see Martin and Hanington)
 * **Hick's Law**: the time it takes to make a decision increases with the number of options (see Lidwell, Holden, and Butler) 
 * **icons**: the use of pictorial images to improve recognition and recall; may increase language independence and reduce performance load; examples include resemblance, exemplar, and symbolic icons (see Lidwell, Holden, and Butler)
 * **inspiration (for design)**: inspiration assumes various forms; it’s not always an homage; it may be partial, or it may be a reaction to a past movement or principle; it may be just an impression, or it may be quite literal (imitation or mimicry)
-* **interface**: a space or modality of engagement between two or more systems or entities; a common example is the graphical user interface (GUI) of computers; interfaces help turn this (e.g., input) into that (e.g., output); they are designed even if they are intangible, unstable, and difficult (impossible?) to isolate; they are often depicted as either portals (transparent windows that transport you) or edges (boundary-makers that mediate you) (see Lori Emerson and Alexander Galloway)   
+* **interface**: a space or modality of engagement between two or more systems or entities; a common example is the graphical user interface (GUI) of computers; interfaces help turn this (e.g., input) into that (e.g., output); they are designed even if they are intangible, unstable, and difficult (impossible?) to isolate; they are often depicted as either portals (transparent windows that transport you) or edges (boundary-makers that mediate you) (see Lori Emerson and Alexander Galloway) 
+* **inverted pyramid**: start with the lead / findings / hook (base), then the body, and then the conclusion (tip) (see Lidwell, Holden, and Butler) 
+* **Kano analysis**: reviewers assign features to categories; required (baseline, quality element), desired (valuable, one-dimensional quality element), exciter/delighter (surprising, attractive quality element), neutral (indifferent quality element), and anti-feature (reverse quality element) (see Martin and Hanington)
 * **KISS**: Keep It Simple Stupid; minimal elements with minimal interaction between them; simple designs are easier to build and maintain (see Kelly Johnson)
 * **language independence**: the degree to which a game works across alphabetic languages or without the need for alphabetic languages; language independent games rely heavily on icons to prompt and facilitate action
 * **legibility**: the use of clear typefaces (with or without serifs) and dark text on light backgrounds (or vice versa); avoiding not only patterned backgrounds but also line lengths of much more than 10-12 words or 35-55 characters as well as monospaced fonts (see Lidwell, Holden, and Butler)
+* **love and breakup letters**: personify a design or product and then write a letter loving it or breaking up with it (see Martin and Hanington) 
 * **M-D-A**: a designer-centric approach to game design; mechanics (M) enable certain dynamics (D) that foster particular experiences and aesthetics (A) (see Hunicke, LeBlanc, and Zubek)
 * **machine-woven book**: a book consisting of thread woven by a Jacquard machine using punched cards; see https://www.uvic.ca/library/locations/home/spcoll/collections/medieval/ms-fr-2.php
 * **machines**: a system of mechanisms that shape actuator input to achieve a specific application of output forces and movement; a popular term during the 19th c. 
+* **maintenance rehearsal**: memorization results from maintenance and elaborative rehearsal; maintenance rehearsal involves repetition whereas elaborative rehearsal involves engaging in different types of analysis; recall is most likely when it involves distinctiveness, relevance, and a degree of elaborative rehearsal
 * **manifesto**: public declarations (and often loud ones at that) (Mary Ann Caws 2001: xix), announcements of motives for forthcoming action (xix), acts of deliberate manipulation (both aesthetic and political) (xix), rooted in the hand (manus) or handmade (xix), directives (usually against something) articulated by a specific "we" (xxi), serious, and frequently without irony (xxi), situated in time, typically with an investment in being first (xxiii), instructive or pedagogical (xxiii), arranged or, indeed, designed (xxiii), efforts to label or categorize (even if loosely) (xxiv), duck, not decoration (xxv), written in the present tense (now!) (xxvi), advertisements (they sell themselves) (xxv), and subject to redefinition and recontextualization over time (xxviii-xxix)
 * **mashup**: the combination of two or more board games into one 
 * **moveable book**: another term for a pop-up book or a book with moving (paper) parts  
 * **near futures**: thinking and designing in terms of possible tomorrows (as opposed to distant futures) (see Julian Bleecker)
 * **nondiegetic action**: action that does not contribute to the theme or narrative development of a game (see Alexander Galloway)
 * **nudging**: modifying behaviour without restricting options (smart defaults, clear feedback, aligned incentives, structured choices, visible goals) (see Lidwell, Holden, and Butler)
+* **Ockham's razor**: given two functionally equal designs, choose the simpler one (see Lidwell, Holden, and Butler)  
 * **parallel prototyping**: simultaneously exploring multiple design ideas before selecting one approach; shifts focus from designer to designing (see Martin and Hanington) 
 * **participatory research and design**: cyclical, collaborative processes that intend to change members of the inquiry; involves numerous groups (not just designers) in the design process (see Martin and Hanington)
+* **performance load**: cognitive (mental) and kinematic (physical); reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task (see Lidwell, Holden, and Butler)
+* **personas**: representative profiles based on archetypal descriptions of players from research (see Martin and Hanington)
 * **playtesting**: "playtesting is all about getting people to come play your game to see if it engenders the experience for which it was designed;" stages are exploring a design space, refining a design, and negotiating with all involved (see Hammer et al.)
 * **prediction**: "the use of statistical models, simulations, and testable hypotheses to forecast future events" (see Kari Kraus)
 * **procedural representation or narrative design**: "close correspondence between [a] game’s formal devices and abstracted elements of [a] historical [or fictitious] situation" (see Kirschenbaum; see also  Salen Tekinbas, Zimmerman, and Ryan)
@@ -164,10 +185,12 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **storyboarding**: visual narrative that generates empathy and communicates the context for proposed design (usually only three to six panels) (see Martin and Hanington)
 * **structural forms**: masses (materials that are piled or stacked to create forms), frames (struts joined to form a skeleton), and shells (wrap around a volume) (see Lidwell, Holden, and Butler)
 * **swimlanes**: four in total, presented in parallel; storyboard lane (captures events in a user story using comics, photographs, images), user experience lane (details user experience with a flowchart), business process lane (articulate the business logic of the experience), and tools and systems lane (back-end technologies that support actions) (see Martin and Hanington) 
+* **think-aloud protocol**: participants verbalize what they are doing and thinking as they complete a task (see Martin and Hanington)
 * **uniform connectedness**: things connected with lines or boxes are perceived to more related than things not connected (see Lidwell, Holden, and Butler)
 * **volatility (experimentation)**: volatile environments tend to favour experimentation (see Lidwell, Holden, and Butler)
 * **wireframing**: a technique for drawing the structure, layout, hierarchy, format, and functionality of an interface; used to express concepts in visual form; usually done early in a project; specific content (particular images or certain words) is saved for later, and placeholder content (such as lorem ipsum) is used instead    
 * **Wizard of Oz**: participants are led to believe they are interacting with a working prototype, but in reality a researcher is acting as a proxy from behind the scenes; experience is realistic but the prototype isn't functioning (see Martin and Hanington)
+* **Zeigarnik effect**: interrupted or incomplete tasks are better remembered than completed tasks (see Lidwell, Holden, and Butler)
 * **zine**: variant of fanzine; made by fans or aficionados; often made by collectives, who may be anonymous; origin story linked to sci-fi scenes of the 1930s; "handmade, noncommercial, irregularly issued, small-run, paper publications circulated by individuals participating in alternative, special-interest communities" (140); grew in popularity with punk during the 1970s and 80s; symbols of an "alternative press"; often asserts voice of youth (as subjects, not objects) (145); call "forth a range of intersubjective activities, including reading, certainly, but also exchanging, mailing, bartering, networking, letter writing, and even face-to-face meeting" (148) (see Janice Radway)
 
 ## Theory Speak
@@ -179,7 +202,7 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 * **eversion**: how the internet has turned inside-out, from cyberspace to internet of things; one approach to understanding how board games are played online, with tablets, or through a combination of media types (see Gibson and Jones)
 * **forensic imagination**: creative and critical work involving deep attention to the material particulars or intricate details of media; often includes an interest in storage, inscription, and instrumentation; think Blake seeing a world in a grain of sand (see Matthew Kirschenbaum)
 * **forensic materiality**: associated with the matter of media, individualizations between their versions, data inscription, storage, and the space of hard drives (see Kirschenbaum) (compare with formal materiality)
-* **formal materiality**: associated with the symbolic logic of media, similarity between their versions, data transmission, modeling, and the space of computer screens (see Kirschenbaum) (compare with forensic materiality)
+* **formal materiality**: associated with the symbolic logic of media, similarity between their versions, data transmission, modeling, and the space of computer screens (see Kirschenbaum) (compare with forensic materiality)  
 * **ludic algorithm**: a position asserting that "interpretation is merely aided by mechanism, not produced mathematically or mechanically," with an emphasis on the hermeneutic basis of algorithms and algorithmic criticism (see Nowviskie)  
 * **ludology**: the study of games and gaming, with an emphasis on play and cultures of play  
 * **media archaeology**: "a methodological preference for rejecting the projection of generalized theories in favor of precise case studies, that is, for embedded theory;" "this method aims to avoid prematurely interpreting archival or archaeological evidence as documents of history but rather isolates this data into discrete series in order to rearrange them and open them for different configurations. The mechanism of human memory is selective, transformative, and thus productive of historical imagination, whereas the general inventory of photography [for example] in accordance with media logic registers temporal events without demanding a binding historical narrative;" "media archaeology is on the side of the indexical and the archival mode of writing" (see Wolfgang Ernst via  Jussi Parikka)
@@ -199,15 +222,19 @@ Many of these working definitions are drawn from [Board Game Geek](https://board
 ## Tech Speak
 
 * **bit box**: a collection of components for playing and/or designing tabletop games 
+* **CNC**: computer numerical control; used for additive and subtractive manufacturing techniques, from 3D printing to laser-cutting to routing    
 * **Dublin Core**: a small set of metadata vocabulary terms that can be used to describe digital resources as well as physical resources; often used to link resources together ("semantic web")
+* **fabrication**: usually refers to additive manufacturing techniques such as 3D printing; common in model design 
+* **laser-cutting**: using a laser to etch or cut materials; common in board design 
 * **metadata**: data about data; used to describe, structure, administer, qualify, and quantify resources; often standardized through a core terms and controlled vocabularies (see Bowker and Star)   
 * **Markdown**: a lightweight markup language with plain text formatting syntax; designed to be converted into other formats, such as HTML; extension/suffix is MD (but TXT also works)
+* **routing**: using subtractive manufacturing to cut hard materials; common in model and board design 
 * **Tabletop Simulator**: allows people to play and create tabletop games in a multiplayer physics sandbox; created with the Unity engine 
 * **text editor**: a piece of software for editing "plain text" as character representations; seen as an alternative to what-you-see-is-what-you-get (WYSIWYG) word processors and rich text; often entwined with rhetorics of command line or coding knowledge as well as distraction-free composition 
 
 ## Prototyping 
 
-Types of prototypes relevant to this seminar and overlapping with media history, literary history, and textual criticism: 
+Here are some types of prototypes that overlap with the work of media history, literary history, and textual criticism: 
 * **imitation** (labour of the text): to better understand the composition of a text by learning the techniques involved in its production
 * **forgery** (economy of the text): to better understand the public perception and/or value of a text by learning the techniques involved in its production, but with intent to either deceive or reveal deception
 * **scenario** (interaction with the text): to better understand how people may ultimately interpret a text by situating it in contexts of use and then observing those uses
@@ -217,7 +244,7 @@ Types of prototypes relevant to this seminar and overlapping with media history,
 * **glitch** (negotiations with the text): to better understand hiccups or surprises in a text by isolating them, applying them procedurally or randomly to other texts (or aspects of itself), and determining why the changes are interesting (if at all)
 * **wish** (ideology of the text): to better understand the worldviews, belief systems, or desires of a text by increasing/decreasing their frequency, reversing them, or otherwise manipulating them and then determining why the changes are interesting (if at all)
 
-Speculating about history through prototyping (this adapts work by Anthony Dunne and Fiona Raby as well as Stuart Candy to think about the past and not just futures in speculative design): 
+Ways to speculate about history through prototyping (this adapts work by Anthony Dunne and Fiona Raby as well as Stuart Candy to think about the past and not just futures in speculative design): 
 * **Probable**: history that likely happened (something like the "attested state" of literary or cultural history upon which most scholarship is built)
 * **Plausible**: history that could have happened (something like an "alternative state" of literary or cultural history that most scholars would entertain as likely or persuasive)
 * **Possible**: history that potentially happened, or for which there is potential (something like a "relatable" or "suggested state" of literary or cultural history that most scholars could imagine)
@@ -248,8 +275,7 @@ Prototyping asks how texts address us like (or as) images (see WJT Mitchell). Th
 * Texts are *dogma*, intended for followers. Here, lists, point form, and order are foregrounded (e.g., litany). As image, the **text wants to be copied, distributed, consulted, and observed**. It directs or guides.
 * Texts are *policy or law*, intended for nations, citizens, or employees. Here, an absence of aesthetics, a lack of variation, or an assertion of consistency is crucial (e.g., protocol). The **text does not want to be an image. It wants to be code or procedure**, with a standard. It is executable.
 
-How artists' books, manifestos, and zines may inform tabletop design: 
-
+How do artists' books, manifestos, and zines inform tabletop design? Some possible lines of inquiry: 
 * **Form**: How does the game interrogate the material and conceptual form of tabletop games? 
 * **Repetition**: How does the game resist standardized or mechanical repetition? Consider how perception is disciplined and trained. 
 * **Imagination**: How does the game rely on imaginative uses of the means or modes of reproduction? 
@@ -263,8 +289,7 @@ How artists' books, manifestos, and zines may inform tabletop design:
 * **Subjectivity**: What intersubjective activities does the game prompt? Consider, e.g., how zines are exchanged, mailed, and repurposed, or how they play a role in f2f meetings, networking, organizing, and community-building.  
 * **Object**: How and by whom is the game collected? Where is it found? How is value assigned to it? By whom? 
 
-Integrating ludic algorithms and critical play into game design: 
-
+How to integrate ludic algorithms (see Nowviskie) and critical play (see Flanagan) into game design: 
 * How does the game understand play as an embodied process and situated action? 
 * How could the game refrain from treating its players as "users," or as audiences merely in receipt of a product to be collected and consumed? 
 * How could the game help people to think through (and not just rehearse) its system of rules and procedures? Its content model?  
@@ -273,35 +298,33 @@ Integrating ludic algorithms and critical play into game design:
 * How could the game afford alternatives to popular play spaces? How might play (and not just design) change the norms of games and gaming cultures? Of dominant themes and mechanics? 
 * How could the game prompt a "phase change"? How would that phase change be defined, by whom, and with what social, cultural, political, and/or aesthetic goals in mind? 
 
-Some midterm tips for prototyping:  
-
-* **Avoid Separating Rules from "Fluff"**: players tend to divide rules and mechanics from backstory, context, and other elements of the theme; muddy or complicate that division; design to integrate the former (rules) with the latter (theme) (thanks, Avery!).
-* **Balance Directions with Trust**: use your prototype to build relationships with players without explicitly telling them what to do; smart components can help people to intuit how to play your game (Thanks, Avery!).
+Some tips for prototyping tabletop games in this seminar:  
+* **Avoid Separating Rules from "Fluff"**: players tend to divide rules and mechanics from backstory, context, and other elements of the theme; muddy or complicate that division; design to integrate the former (rules) with the latter (theme) (see Avery Alder).
+* **Balance Directions with Trust**: use your prototype to build relationships with players without explicitly telling them what to do; smart components can help people to intuit how to play your game (see  Avery Alder).
 * **Consider the Order of Operations**: the "serial position effect" states that things presented at the beginning and end of a sequence are more memorable; this effect shapes game design (how content is arranged) as well as player action (what they do or select).
-* **Determine Cause or Effect**: determine whether you want to lead people to why (design for cause) or prompt them to experience what (design for effect); or perhaps you have another approach in mind. 
+* **Determine Cause or Effect**: determine whether you want to lead people to why (design for cause) or prompt them to experience what (design for effect); or perhaps you have another approach in mind (see Kirschenbaum).  
 * **Develop Your Theme over Time**: separate your theme’s information into layers and present only what's necessary for that stage in the game; progressive disclosure during a play session (or campaign) reduces a player's cognitive and kinematic performance load; reduce cognitive load by reducing information density; reduce kinematic load by reducing steps in a task.
 * **Don’t Neglect Your Text**: as you proceed with making a game, don’t forget your -ism and primary text; keep them both in conversation with your prototype as it changes from week to week; use your -ism and text to ground your experiments in the particulars of history and to avoid scope or feature creep.   
 * **Experiment with Variation**: modify your prototype and study the modifications during playtesting; cut a rule, add a rule, change the player order, cut a hat rack, add a hat rack, cut the timer, add a timer, offer three end conditions, offer only one end condition, increase the number of players, decrease the number of players, make it symmetrical, or make it asymmetrical.  
-* **Focus on the Critical 20%**: focus your time and prototyping on the critical 20 percent of your game; 80 percent of play involves 20 percent of a game's features.
+* **Focus on the Critical 20%**: focus your time and prototyping on the critical 20 percent of your game; 80 percent of play may involve 20 percent of a game's features.
 * **Give Your Playtesters a Problem**: before people playtest your game, tell them about a problem you’re facing and request feedback to address it; write down the problem for them, if possible. 
 * **Isolate Aspects of Your State**: instead of prototyping everything at once, isolate specific aspects of your game state and ask people to playtest them for you.  
 * **Know Your Mechanics**: identify which mechanics you’re using and how you’re using or tweaking them; communicate the mechanics to playtesters, if need be.  
 * **Let People Audit It**: provide playtesters with an inventory of your game’s content and then ask them to audit it by performing a Kano analysis: identify which features are required (baseline or quality features), which are desired (important one-dimensional features), which are surprising (satisfying or attractive features), which are neutral (features producing indifference), and which are anti-features (to be removed).  
 * **Mind the Important Features**: keep important components of your game close and large; Fitts’ Law states that the time required to touch an object is a function of the object's size and distance.
 * **Nudge by Design**: guide or modify player behaviours without restricting options; use smart defaults, clear feedback, aligned incentives, structured choices, and visible goals.
-* **Play before It's Ready**: early on, don't become preoccupied with details; play prototypes made with index cards, pens, and paper (thanks, Avery!).
+* **Play It before It's Ready**: early on, don't become preoccupied with details; play prototypes made with index cards, pens, and paper (see Avery Alder). 
 * **Prototype in Parallel**: create multiple prototypes that could serve the same ends or purposes; providing people with a few options may increase the quality of playtesting and feedback. 
 * **Provide Good Entry Points**: good entry points into a game or play session feature minimal barriers, points of prospect, and progressive lures; entry points should survey available options and provide visible navigation options as well as orientation cues. 
 * **Stabilize Some Parts to Experiment with Others**: if you want to test a specific aspect of your prototype, try stabilizing everything else to encourage the isolated volatility of that one aspect; stable environments encourage refinement while volatile environments encourage experimentation; also, Hick’s Law states that the time it takes to make a decision increases with the number of options. 
 * **Think Aloud**: while playtesting, ask people to verbalize what they are doing and thinking as they complete a task; you can do the same when introducing your game or aspects of it to them. 
 * **Try Extending a Task**: according to the Zeigarnik Effect, interrupted or incomplete tasks are better remembered than complete tasks; legacy games and campaigns rely on this to-be-continued dimension of storytelling and play by prompting additional play sessions or scenarios; puzzle and abstract games extend interest by providing no definitive ending or solution.  
-* **Watch those Lines**: things connected with lines or boxes are perceived to be more related than things not connected by lines or boxes. 
+* **Watch those Lines**: things connected with lines or boxes are perceived to be more related than things not connected by lines or boxes; also, players may create their own "desire lines" (expressed through wear and tear) through repeated play. 
 * **Write Your Prototype a Letter**: after a few weeks of prototyping, personify your game and write it a love letter and a breakup letter; doing so may help you to think through the state of your game but also how people (you included) may personify it.  
 
 For the source material for these tips, see [Design Speak](#design-speak) above. 
 
-Some resources for prototyping: 
-
+Some resources for prototyping tabletop games: 
 * [Use Standard Card Templates](https://www.dropbox.com/sh/dhsk7x98vv4i03r/AAAI1UIod-gdXjiQuLxGtfjNa?dl=0) (edit in AI or PS)
 * [Use Shape Card Templates](https://www.dropbox.com/sh/tczlx6hi37z3j4j/AAALKMpl8VOOkngs-XI9SLX_a?dl=0) (edit in PS)
 * [Use Board Templates](https://www.printplaygames.com/prototypes/formatting-guidelines/boards-formatting-templates/) (edit in PS)
@@ -332,8 +355,7 @@ Some resources for prototyping:
 
 ## List of Games 
 
-Some games mentioned in the 508 materials (not recommendations, just a list)
-
+Some games mentioned in the 508 materials (not recommendations; just a list): 
 * *Azul* (abstract, renaissance, tile placement, set collection, pattern building, 2-4 players)
 * *Betrayal at House on the Hill* (horror, cooperative modular board, partnerships, 3-6 players)
 * *Bluebeard's Bride* (tabletop role-playing game)
@@ -352,6 +374,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Dominion* (medieval, card drafting, deck building, hand management, 2-4 players)
 * *Ex Libris* (fantasy, card drafting, set collection, worker placement, 1-4 players)
 * *Flamme Rouge* (racing, hand management, modular board, simultaneous action selection, 2-4 players)
+* *Fog of Love* (romance, copperative, role-playing, secret unit development, 2 players)
 * *Funemployed* (party, humor, role-playing, storytelling, 3-20 players)
 * *Fury of Dracula* (horror, secret unit development, variable player powers, point-to-point movement, 2-5 players)
 * *Galaxy Trucker* (science fiction, partnership, tile placement, 2-4 players)
@@ -364,6 +387,7 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Love Letter* (renaissance, deduction, hand management, elimination, 2-4 players), 
 * *Machi Koro* (city building, card drafting, 2-4 players)
 * *Magic Maze* (real-time, cooperative, grid movement, variable player powers, 1-8 players)
+* *Mansions of Madness* (horror, cooperative, area movement, hand management, 1-5 players)  
 * *Mark* (by Amy Hildreth Chen; a deck of cards consisting of of early modern printer's marks, or devices, on one side and the year they were printed on the other)
 * *Mint Works* (economic, worker placement, card drafting, 1-4 players)
 * *Modern Art* (economic, bidding, commodity speculation, hand management, 3-5 players)
@@ -375,12 +399,15 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 * *Pandemic* (medical, cooperative, point-to-point movement, hand management, variable player powers, 2-4 players)
 * *Patchwork* (abstract, time track, tile placement, 2 players)
 * *Power Grid* (economic, bidding, network building, 2-6 players)
+* *The Quiet Year* (post-apocalypse, role-playing, storytelling, 2-4 players)
 * *Race for the Galaxy* (science fiction, hand management, simultaneous action selection, variable player powers, 2-4 players)
 * *The Resistance* (bluffing, spies, simultaneous action selection, partnerships, 5-10 players)
+* *Romance Trilogy* (romance, role-playing)
 * *Root* (animals, fantasy, area movement, variable player powers, 2-4 players)
 * *Sagrada* (dice, set collection, pattern building, 1-4 players)
 * *Secrets* (party, spies, card drafting, take-that, 4-8 players)
 * *Skull* (party, bidding, bluffing, elimination, 3-6 players)
+* *Suffragetto* (political, point-to-point movement, historical, 2 players)
 * *Sushi Go* (drafting, hand management, set collection, simultaneous action selection, 2-5 players)
 * *The Tessera Inventors* (card game, history)
 * *Unlock!* (theme, puzzle, storytelling, cooperative, 2-6 players)
@@ -388,4 +415,30 @@ Some games mentioned in the 508 materials (not recommendations, just a list)
 
 ## List of Readings 
 
-Coming soon, a list of readings from this term.  
+We read the following works this term: 
+
+* Whitney “Strix” Beltrán, [“Why Minority Settings in RPGs Matter”](https://www.tor.com/2015/04/27/why-minority-settings-in-rpgs-matter/%22) (2015)
+* Elizabeth W. Bruss, [“The Games of Literature and Some Literary Games”](http://jenteryteaches.com/noneshall/508/brussGames.pdf) (1977)
+* Anne Burdick, ["Meta! Meta! Meta!"](http://jenteryteaches.com/noneshall/508/burdickMeta.pdf) (2016) 
+* Jessica Hammer and Meguey Baker, [“Problematizing Power Fantasy”](http://theenemyreader.org/wp-content/uploads/2014/02/Hammer_Baker_The_Enemy.pdf) (2014)
+* Rachel Sagner Buurma and Laura Heffernan, [“Search and Replace: Josephine Miles and the Origins of Distant Reading”](https://modernismmodernity.org/forums/posts/search-and-replace) (2018)
+* Mary Ann Caws, [“The Poetics of the Manifesto: Nowness and Newness”](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) (from *Manifesto: A Century of Isms*, 2001)
+* Isaac Childres, ["Euro-inspired tactical combat in an evolving campaign"](http://www.cephalofair.com/gloomhaven) (2015)  
+* Nicole Clouston and me, ["Fabrication and Research-Creation in the Arts and Humanities"](http://jenteryteaches.com/noneshall/508/cloustonFabrication.pdf) (2016)
+* Samuel R. Delany, [“The Necessity of Tomorrows”](http://jenteryteaches.com/noneshall/508/delanyTomorrows.pdf) (1978/1984)
+* Johanna Drucker, [“The Artist’s Book–As Idea and Form”](http://jenteryteaches.com/noneshall/508/druckerAB.pdf) (from *The Century of Artists’ Books*, 1995)
+* Mary Flanagan, “Introduction to Critical Play” and [“Board Games”](http://jenteryteaches.com/noneshall/508/flanaganBoardGames.pdf) (from *Critical Play: Radical Game Design*, 2009)
+* Alexander Galloway, [“Debord AI”](http://cultureandcommunication.org/galloway/debord-ai) (2018)
+* Lisa Gitelman, [“A Short History of ____”](http://jenteryteaches.com/noneshall/508/gitelmanShortHistory.pdf) (from *Paper Knowledge*, 2014). 
+* Margaret Konkol, [“Prototyping Mina Loy’s Alphabet”](http://jenteryteaches.com/noneshall/508/konkolLoy.pdf) (2018); 
+* Louise Krasniewicz, [“Miniature Manifesto”](https://thewonderofminiatures.com/2015/05/20/miniature-manifesto-part-1-call-us-makers/) (2015)
+* Matthew Kirschenbaum, [“War Stories: Board Wargames and (Vast) Procedural Narratives”](http://jenteryteaches.com/noneshall/508/kirschenbaumWar.pdf) (2009)
+* Kari Kraus, [“Finding Faultlines: An Approach to Speculative Design,”](http://jenteryteaches.com/noneshall/508/krausFaultlines.pdf), including the [“Family of Subjunctive Practices”](https://docs.google.com/document/d/1aKtMon5LE7tRMOLo41HNDKrfEThp2nFLduLAPJ5Vvy4/edit) (2018)
+* Elizabeth LaPensée, [“Indigenous Board Game Design in The Gift of Food”](http://analoggamestudies.org/2016/03/indigenous-board-game-design-in-the-gift-of-food/) (2016)
+* Michelle Lorna Nahanee, [*Decolonizing Practices*](https://decolonizingpractices.org/) 
+* Bethany Nowviskie, [“Ludic Algorithms”](https://quod.lib.umich.edu/d/dh/12544152.0001.001/--pastplay-teaching-and-learning-history-with-technology?g=dculture;trgt=div2_ch7;view=fulltext;xc=1) (2014) 
+* Janice Radway, [“Zines, Half-Lives, and Afterlives: On the Temporalities of Social and Political Change”](http://jenteryteaches.com/noneshall/508/radwayZines.pdf) (2011)
+* Patrick Rael, [“Seriously – Boardgames? Yes, Seriously”](https://www.aaihs.org/seriously-boardgames-yes-seriously/) (2015)
+* Lisa Samuels and Jerome McGann, [“Deformance and Interpretation”](http://jenteryteaches.com/noneshall/508/samuelsMcGannDeformance.pdf) (1999)
+* Susan Stewart, [“The Miniature”](http://jenteryteaches.com/noneshall/508/stewartOnLonging.pdf) (from *On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection*, 1993);
+* Melissa Terras, [“Father Busa’s Female Punch Card Operatives”](http://melissaterras.blogspot.com/2013/10/for-ada-lovelace-day-father-busas.html) (2013)
