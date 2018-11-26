@@ -420,7 +420,6 @@ We read the following works this term:
 * Whitney “Strix” Beltrán, [“Why Minority Settings in RPGs Matter”](https://www.tor.com/2015/04/27/why-minority-settings-in-rpgs-matter/%22) (2015)
 * Elizabeth W. Bruss, [“The Games of Literature and Some Literary Games”](http://jenteryteaches.com/noneshall/508/brussGames.pdf) (1977)
 * Anne Burdick, ["Meta! Meta! Meta!"](http://jenteryteaches.com/noneshall/508/burdickMeta.pdf) (2016) 
-* Jessica Hammer and Meguey Baker, [“Problematizing Power Fantasy”](http://theenemyreader.org/wp-content/uploads/2014/02/Hammer_Baker_The_Enemy.pdf) (2014)
 * Rachel Sagner Buurma and Laura Heffernan, [“Search and Replace: Josephine Miles and the Origins of Distant Reading”](https://modernismmodernity.org/forums/posts/search-and-replace) (2018)
 * Mary Ann Caws, [“The Poetics of the Manifesto: Nowness and Newness”](http://jenteryteaches.com/noneshall/508/cawsManifesto.pdf) (from *Manifesto: A Century of Isms*, 2001)
 * Isaac Childres, ["Euro-inspired tactical combat in an evolving campaign"](http://www.cephalofair.com/gloomhaven) (2015)  
@@ -429,7 +428,8 @@ We read the following works this term:
 * Johanna Drucker, [“The Artist’s Book–As Idea and Form”](http://jenteryteaches.com/noneshall/508/druckerAB.pdf) (from *The Century of Artists’ Books*, 1995)
 * Mary Flanagan, “Introduction to Critical Play” and [“Board Games”](http://jenteryteaches.com/noneshall/508/flanaganBoardGames.pdf) (from *Critical Play: Radical Game Design*, 2009)
 * Alexander Galloway, [“Debord AI”](http://cultureandcommunication.org/galloway/debord-ai) (2018)
-* Lisa Gitelman, [“A Short History of ____”](http://jenteryteaches.com/noneshall/508/gitelmanShortHistory.pdf) (from *Paper Knowledge*, 2014). 
+* Lisa Gitelman, [“A Short History of ____”](http://jenteryteaches.com/noneshall/508/gitelmanShortHistory.pdf) (from *Paper Knowledge*, 2014)
+* Jessica Hammer and Meguey Baker, [“Problematizing Power Fantasy”](http://theenemyreader.org/wp-content/uploads/2014/02/Hammer_Baker_The_Enemy.pdf) (2014) 
 * Margaret Konkol, [“Prototyping Mina Loy’s Alphabet”](http://jenteryteaches.com/noneshall/508/konkolLoy.pdf) (2018); 
 * Louise Krasniewicz, [“Miniature Manifesto”](https://thewonderofminiatures.com/2015/05/20/miniature-manifesto-part-1-call-us-makers/) (2015)
 * Matthew Kirschenbaum, [“War Stories: Board Wargames and (Vast) Procedural Narratives”](http://jenteryteaches.com/noneshall/508/kirschenbaumWar.pdf) (2009)
