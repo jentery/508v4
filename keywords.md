@@ -430,7 +430,7 @@ We read the following works this term:
 * Alexander Galloway, [“Debord AI”](http://cultureandcommunication.org/galloway/debord-ai) (2018)
 * Lisa Gitelman, [“A Short History of ____”](http://jenteryteaches.com/noneshall/508/gitelmanShortHistory.pdf) (from *Paper Knowledge*, 2014)
 * Jessica Hammer and Meguey Baker, [“Problematizing Power Fantasy”](http://theenemyreader.org/wp-content/uploads/2014/02/Hammer_Baker_The_Enemy.pdf) (2014) 
-* Margaret Konkol, [“Prototyping Mina Loy’s Alphabet”](http://jenteryteaches.com/noneshall/508/konkolLoy.pdf) (2018); 
+* Margaret Konkol, [“Prototyping Mina Loy’s Alphabet”](http://jenteryteaches.com/noneshall/508/konkolLoy.pdf) (2018)
 * Louise Krasniewicz, [“Miniature Manifesto”](https://thewonderofminiatures.com/2015/05/20/miniature-manifesto-part-1-call-us-makers/) (2015)
 * Matthew Kirschenbaum, [“War Stories: Board Wargames and (Vast) Procedural Narratives”](http://jenteryteaches.com/noneshall/508/kirschenbaumWar.pdf) (2009)
 * Kari Kraus, [“Finding Faultlines: An Approach to Speculative Design,”](http://jenteryteaches.com/noneshall/508/krausFaultlines.pdf), including the [“Family of Subjunctive Practices”](https://docs.google.com/document/d/1aKtMon5LE7tRMOLo41HNDKrfEThp2nFLduLAPJ5Vvy4/edit) (2018)
@@ -440,5 +440,5 @@ We read the following works this term:
 * Janice Radway, [“Zines, Half-Lives, and Afterlives: On the Temporalities of Social and Political Change”](http://jenteryteaches.com/noneshall/508/radwayZines.pdf) (2011)
 * Patrick Rael, [“Seriously – Boardgames? Yes, Seriously”](https://www.aaihs.org/seriously-boardgames-yes-seriously/) (2015)
 * Lisa Samuels and Jerome McGann, [“Deformance and Interpretation”](http://jenteryteaches.com/noneshall/508/samuelsMcGannDeformance.pdf) (1999)
-* Susan Stewart, [“The Miniature”](http://jenteryteaches.com/noneshall/508/stewartOnLonging.pdf) (from *On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection*, 1993);
+* Susan Stewart, [“The Miniature”](http://jenteryteaches.com/noneshall/508/stewartOnLonging.pdf) (from *On Longing: Narratives of the Miniature, the Gigantic, the Souvenir, the Collection*, 1993)
 * Melissa Terras, [“Father Busa’s Female Punch Card Operatives”](http://melissaterras.blogspot.com/2013/10/for-ada-lovelace-day-father-busas.html) (2013)
